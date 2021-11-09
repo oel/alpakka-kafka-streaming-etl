@@ -6,25 +6,27 @@ Central to the system are configurable Apache Kafka brokers which provide the pu
 
 For an overview of the application, please visit Genuine Blog (URL to be provided soon).
 
-## Kafka producers and consumers for real estate property listings
-
-With [Alpakka Kafka](https://doc.akka.io/docs/alpakka-kafka/2.1.1/index.html) serving as the Akka Stream wrapper of Apache Kafka, the application has a couple of producers for streaming property listing data out of a PostgreSQL database and CSV data files using [Alpakka Slick](https://doc.akka.io/docs/alpakka/3.0.3/slick.html) and [Alpakka Csv](https://doc.akka.io/docs/alpakka/3.0.3/data-transformations/csv.html), respectively.  For stream consumption, the application consists of a few variants of consumers that ETL along with a processing pipeline into a Cassandra database using [Alpakka Cassandra](https://doc.akka.io/docs/alpakka/3.0.3/cassandra.html) and another consumer with custom stream flow/destination.
-
 ## Systems requirement: Kafka brokers, PostgreSQL and Cassandra databases
 
-Existence of one or more working Kafka broker(s) is the minimal systems requirement.  For ETL/pipelining from a PostgreSQL database to a Cassandra data warehouse, both the Postgres and Cassandra servers would have to be set up first.
+Existence of one or more working Kafka broker(s) is the minimal systems requirement.  For ETL/pipelining from a PostgreSQL database to a Cassandra data warehouse, both the Postgres and Cassandra servers would required as well.
 
 Note that scaling up the streaming system to run on Kafka brokers spanning multiple nodes would just need configurative changes.  Likewise, no code change should be needed to run the application on a multi-node Cassandra database.
 
-To run the application that comes with sample real estate property listing data on a computer, Git-clone this repo to a local disk.
+## Kafka producers and consumers
 
-## Schema creation for property listings in PostgreSQL & Cassandra
+With [Alpakka Kafka](https://doc.akka.io/docs/alpakka-kafka/2.1.1/index.html) serving as the Akka Stream wrapper of Apache Kafka, the streaming ETL system consists of a couple of producers which extract data out of a PostgreSQL database and CSV data files using [Alpakka Slick](https://doc.akka.io/docs/alpakka/3.0.3/slick.html) and [Alpakka Csv](https://doc.akka.io/docs/alpakka/3.0.3/data-transformations/csv.html), respectively, and publish to some Kafka topics.  Meanwhile, as subscribers to those topics, a few consumers pull any data associated with the topics from Kafka, followed by transforming and loading into a Cassandra database using [Alpakka Cassandra](https://doc.akka.io/docs/alpakka/3.0.3/cassandra.html).  There is also a consumer for showcasing ETL with custom stream flow/destination.
+
+## Data model: Real estate property listings
+
+For demonstration purpose, the application runs ETL/pipelining with a simplified real estate property listing data model.  It should be noted that expanding the data model (or even changing it altogether to a different data model) should not affect how the core streaming ETL system operates.
 
 Command-line scripts for creating schemas for property listings in PostgreSQL (*"schema_postgres.script.txt"*) and Cassandra (*"schema_cassandra.script.txt"*) are provided under "*{project-root}/src/main/resources/*".
 
 A couple of TSV (tab separated values) files (*property_listing_db_postgres_500.tsv* & *property_listing_file_csv_500.tsv*) with identical data format, each consisting of sample real estate property listings, have been created and saved under "*{project-root}/src/main/resources/*".  One of them can be used for populating the Postgres database before running the Postgres producer and the other one as direct input for the CSV producer.
 
 ## Running Alpakka Kafka producers & consumers on one or more JVMs
+
+To run the application that comes with sample real estate property listing data on a computer, Git-clone this repo to a local disk.
 
 Open up one or more shell command-line terminal(s), launch a mix of the producers and consumers from the *project-root* on the terminal(s).
 
