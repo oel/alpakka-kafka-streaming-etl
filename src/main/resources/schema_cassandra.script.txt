@@ -1,0 +1,50 @@
+# Creation of keyspace `propertydata` and tables `property_listing`, `rated_property_listing`
+# in Cassandra using `cqlsh`
+#
+$ cqlsh
+CREATE KEYSPACE propertydata
+  WITH REPLICATION = {
+   'class' : 'SimpleStrategy',  // use 'NetworkTopologyStrategy' for multi-node
+   'replication_factor' : 2     // use 'datacenter1' for multi-node
+  };
+CREATE TABLE propertydata.property_listing (
+    partition_key text,
+    property_id int,
+    data_source text,
+    bathrooms double,
+    bedrooms int,
+    list_price double,
+    living_area int,
+    property_type text,
+    year_built text,
+    last_updated text,
+    street_address text,
+    city text,
+    state text,
+    zip text,
+    country text,
+    PRIMARY KEY ((partition_key), property_id)
+);
+CREATE TABLE propertydata.rated_property_listing (
+    partition_key text,
+    property_id int,
+    data_source text,
+    bathrooms double,
+    bedrooms int,
+    list_price double,
+    living_area int,
+    property_type text,
+    year_built text,
+    last_updated text,
+    street_address text,
+    city text,
+    state text,
+    zip text,
+    country text,
+    rating_affordability int,
+    rating_comfort int,
+    rating_neighborhood int,
+    rating_schools int,
+    PRIMARY KEY ((partition_key), property_id)
+);
+exit

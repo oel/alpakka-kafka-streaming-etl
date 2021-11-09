@@ -1,0 +1,501 @@
+property_id	bathrooms	bedrooms	list_price	living_area	property_type	year_built	data_source	last_updated	street_address	city	state	zip	country
+2097	2.00	3	415000	1449	Single Family Detached	1979	db-postgres	2015-08-19 21:07:00-07	935 Felicidad	Fallbrook	CA	92028	US
+3683	2.00	3	599995	1967	Single Family Detached	1984	db-postgres	2015-06-26 05:53:00-07	2668 Sugarpine Lane	Fallbrook	CA	92028	US
+4293	3.00	4	659000	3082	Single Family Detached	1990	db-postgres	2015-07-04 19:01:00-07	12473 MONTANYA DRIVE	Valley Center	CA	92082	US
+4896	1.00	2	399900	768	Single Family Detached	1954	db-postgres	2015-08-05 22:29:00-07	1511 San Jose St	Oceanside	CA	92058	US
+5681	2.50	3	429900	1460	Single Family Detached	1991	db-postgres	2015-07-27 16:18:00-07	911 Vine Street	Oceanside	CA	92054	US
+9442	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+9572	1.50	3	350000	968	Single Family Detached	1960	db-postgres	2015-07-24 11:33:55-07	529 Starling	Vista	CA	92083	US
+11756	3.50	4	899000	3478	Single Family Detached	1991	db-postgres	2015-04-02 16:26:00-07	2397 IVY	Oceanside	CA	92054	US
+11985	2.50	3	1100000	2845	Single Family Detached	1978	db-postgres	2015-06-05 21:42:00-07	1754 Avocado	Oceanside	CA	92054	US
+12208	2.50	4	500000	1717	Single Family Detached	1990	db-postgres	2015-07-10 11:38:47-07	2104 Ramada	Oceanside	CA	92056	US
+13173	2.00	4	700000	1562	Single Family Detached	1984	db-postgres	2015-08-16 03:19:00-07	2695 Olympia	Carlsbad	CA	92010	US
+13878	3.00	5	600000	2203	Single Family Detached	1980	db-postgres	2015-07-30 20:33:00-07	4605 Waverly	Oceanside	CA	92056	US
+14790	3.00	4	724000	2851	Single Family Detached	1980	db-postgres	2015-04-03 06:15:00-07	2909 Harris Drive	Vista	CA	92084	US
+14984	4.50	4	1400000	5000	Single Family Detached	1965	db-postgres	2015-08-09 19:41:00-07	1779 Elevado Road	Vista	CA	92084	US
+15991	2.00	4	477893	1972	Single Family Detached	1972	db-postgres	2015-07-26 07:51:00-07	305 Zada	Vista	CA	92084	US
+17364	4.50	5	779000	4110	Single Family Detached	2002	db-postgres	2015-06-20 11:40:14-07	28522 Gordon Hill Rd.	Valley Center	CA	92082	US
+17749	2.00	4	489300	2072	Single Family Detached	1974	db-postgres	2015-07-19 11:41:02-07	11010 Arco Drive	Escondido	CA	92026	US
+18647	2.00	4	699000	1693	Single Family Detached	1960	db-postgres	2015-06-13 11:45:04-07	2041 Janis	Carlsbad	CA	92008	US
+18826	1.00	3	699876	1304	Single Family Detached	1925	db-postgres	2015-08-01 11:39:17-07	3911 Highland Drive	Carlsbad	CA	92008	US
+20208	5.50	6	1295000	5200	Single Family Detached	1978	db-postgres	2015-09-04 08:34:00-07	7136 Almaden	Carlsbad	CA	92009	US
+23916	3.00	5	1125000	3036	Single Family Detached	1998	db-postgres	2015-08-14 00:28:00-07	3332 Bajo Ct	Carlsbad	CA	92009	US
+24895	3.00	4	424900	1500	Single Family Detached	1986	db-postgres	2015-07-24 11:50:11-07	2322 Lake Forest St	Escondido	CA	92026	US
+25829	2.00	5	450000	1712	Single Family Detached	1975	db-postgres	2015-08-25 11:45:31-07	559 Berryhill Drive	San Marcos	CA	92069	US
+26483	2.00	3	385000	1442	Single Family Detached	1971	db-postgres	2015-08-03 22:49:00-07	1361 Rincon Villa Dr.	Escondido	CA	92027	US
+27872	2.00	3	440000	1672	Single Family Detached	1979	db-postgres	2015-08-25 00:08:00-07	635 Rainbow Place	Escondido	CA	92027	US
+28273	2.00	2	549000	1450	Single Family Detached	1978	db-postgres	2015-08-21 11:53:34-07	2470 Joan Lane	Fallbrook	CA	92028	US
+28278	2.00	3	409000	1304	Single Family Detached	1972	db-postgres	2015-07-31 11:32:17-07	40088 Ross Rd	Fallbrook	CA	92028	US
+28375	3.50	4	775000	2997	Single Family Detached	2003	db-postgres	2015-06-03 22:42:00-07	40790 Via De La Roca	Fallbrook	CA	92028	US
+28870	2.00	4	559000	3562	Single Family Detached	1968	db-postgres	2015-07-29 17:20:00-07	1119 Park Hill Lane	Escondido	CA	92025	US
+29013	2.00	5	475000	1776	Single Family Detached	1972	db-postgres	2015-07-02 11:21:54-07	1316 Birch Ave	Escondido	CA	92027	US
+29150	1.00	2	506000	720	Single Family Detached	1977	db-postgres	2015-06-24 11:22:04-07	741 Shady Lane	Fallbrook	CA	92028	US
+30469	2.50	3	539000	2236	Single Family Detached	1989	db-postgres	2015-06-20 11:23:33-07	2495 Hobbit Ln.	Fallbrook	CA	92028	US
+30540	1.50	3	425000	1787	Single Family Detached	1965	db-postgres	2015-08-25 05:45:00-07	748 Hamiltron	Fallbrook	CA	92028	US
+31422	2.00	4	425000	1619	Single Family Detached	1969	db-postgres	2015-05-03 19:12:00-07	621 Utah Way	Escondido	CA	92025	US
+31482	2.00	5	435000	1508	Single Family Detached	1971	db-postgres	2015-07-15 16:53:00-07	920 Hillpark Ln.	Fallbrook	CA	92028	US
+31966	2.00	3	669000	2184	Single Family Detached	1988	db-postgres	2015-06-06 06:25:00-07	2501 CAPS WAY	Fallbrook	CA	92028	US
+32714	2.00	4	529900	1809	Single Family Detached	1963	db-postgres	2015-07-23 04:46:00-07	744 Chaparral	Escondido	CA	92025	US
+32925	2.00	3	463000	2254	Single Family Detached	1990	db-postgres	2015-08-07 23:25:00-07	958 Ridge Heights Dr.	Fallbrook	CA	92028	US
+33074	3.00	3	650000	2775	Single Family Detached	1959	db-postgres	2015-08-29 03:15:00-07	2545 Havencrest Dr	Fallbrook	CA	92028	US
+35528	2.00	3	709000	2184	Single Family Detached	1988	db-postgres	2015-08-06 11:45:07-07	4904 Conejo Rd	Falbrool	CA	92028	US
+37198	2.50	4	499999	2630	Single Family Detached	1991	db-postgres	2015-08-14 11:50:53-07	4648 Caneel Bay Ct	Oceanside	CA	92057	US
+37721	2.50	3	625000	2401	Single Family Detached	1985	db-postgres	2015-07-06 23:30:00-07	4141 Palomar Drive	Fallbrook	CA	92028	US
+37854	3.50	3	1399000	4020	Single Family Detached	2008	db-postgres	2015-06-30 23:51:00-07	3128 Los Verdes Dr	Fallbrook	CA	92028	US
+38250	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+38618	5.00	7	898990	7223	Single Family Detached	1991	db-postgres	2015-07-09 23:57:00-07	2808 Lakemont Dr.	Fallbrook	CA	92028	US
+38903	3.00	4	925000	3500	Single Family Detached	1990	db-postgres	2015-06-16 17:19:00-07	32598 Ranchos Ladera Rd	Bonsall	CA	92003	US
+43038	2.50	4	799000	2285	Single Family Detached	1973	db-postgres	2015-07-23 19:35:00-07	241 Cerro	Encinitas	CA	92024	US
+43606	2.50	2	1325000	1200	Single Family Detached	1947	db-postgres	2015-08-05 11:44:59-07	1359 Rubenstein Avenue	Cardiff By The Sea	CA	92007	US
+44590	2.50	5	889000	2240	Single Family Detached	1979	db-postgres	2015-09-04 07:41:00-07	1519 Villa Cardiff Dr	Cardiff By The Sea	CA	92007	US
+47496	3.50	3	2295000	2936	Single Family Detached	2005	db-postgres	2015-06-27 11:41:57-07	718 S Pacific Street	Oceanside	CA	92054	US
+49802	2.00	3	479900	1134	Single Family Detached	1954	db-postgres	2015-07-12 11:34:14-07	1614 LOPEZ STREET	Oceanside	CA	92054	US
+51268	2.00	4	399900	1534	Single Family Detached	1964	db-postgres	2015-07-21 00:09:00-07	4844 Tacayme Drive	Oceanside	CA	92057	US
+54538	3.00	4	419000	2303	Single Family Detached	1991	db-postgres	2015-08-27 11:50:31-07	3 Avenida Descanso	Oceanside	CA	92057	US
+57345	2.50	3	549900	2175	Single Family Detached	1990	db-postgres	2015-07-09 05:05:00-07	5091 Summerhill Drive	Oceanside	CA	92057	US
+58419	2.50	3	450000	1983	Single Family Detached	1999	db-postgres	2014-12-02 20:04:00-08	1316 Woodhaven	Oceanside	CA	92056	US
+58540	2.50	4	1099000	2742	Single Family Detached	1961	db-postgres	2015-05-22 23:30:00-07	16447 Orchard Bend	Poway	CA	92064	US
+61193	2.50	4	949000	2583	Single Family Detached	1987	db-postgres	2015-07-17 20:33:00-07	14311 TRAILWIND RD	Poway	CA	92064	US
+64531	2.00	3	449900	1554	Single Family Detached	1982	db-postgres	2015-07-25 11:51:12-07	1583 Quiet Hills Drive	Oceanside	CA	92056	US
+66149	2.00	3	679000	2612	Single Family Detached	2005	db-postgres	2015-02-27 17:21:00-08	24013 Starlight Mountain	Ramona	CA	92065	US
+69074	2.50	3	480000	1766	Single Family Detached	1989	db-postgres	2015-08-08 11:46:07-07	1541 Merlot Ct	Vista	CA	92083	US
+70424	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+70959	1.00	2	269000	827	Other	1973	db-postgres	2015-08-26 15:00:00-07	3678 Seaflower Ln	Oceanside	CA	92056	US
+73631	2.00	5	399000	1407	Single Family Detached	1968	db-postgres	2015-07-23 11:46:28-07	4018 Lonnie	Oceanside	CA	92056	US
+73698	2.00	3	389999	1537	Single Family Detached	1975	db-postgres	2015-08-14 11:50:53-07	3330 Heather Ln	Oceanside	CA	92056	US
+74614	2.00	5	820000	1752	Single Family Detached	1969	db-postgres	2015-08-21 11:41:26-07	2240 Nob Hill	Carlsbad	CA	92008	US
+80718	2.50	4	635000	2021	Single Family Detached	1977	db-postgres	2015-07-10 11:35:49-07	452 Barsby	Vista	CA	92084	US
+80768	4.00	5	1250000	3800	Single Family Detached	2004	db-postgres	2015-06-20 11:33:20-07	1151 Evergreen	Vista	CA	92084	US
+82349	3.00	3	445000	1508	Single Family Detached	1944	db-postgres	2015-08-04 11:31:15-07	1070 Oak Drive	Vista	CA	92084	US
+83127	2.00	3	369000	1222	Single Family Detached	1959	db-postgres	2015-07-29 20:42:00-07	811 Duo Ct.	Vista	CA	92084	US
+84741	2.00	2	420000	1363	Single Family Detached	1955	db-postgres	2015-08-06 11:44:56-07	1235 Lexington Dr.	Vista	CA	92084	US
+84941	2.00	4	479900	1728	Single Family Detached	1972	db-postgres	2015-08-21 21:25:00-07	842 Avenida Taxco	Vista	CA	92084	US
+85995	2.00	3	425000	1186	Single Family Detached	1986	db-postgres	2015-08-27 11:45:08-07	850 Hampton Ct.	Vista	CA	92081	US
+87693	2.00	4	675000	1485	Single Family Detached	1957	db-postgres	2015-06-22 11:46:02-07	341 Hannalei Dr	Vista	CA	92083	US
+89055	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+89634	3.50	4	989000	4043	Single Family Detached	2006	db-postgres	2015-06-11 08:26:00-07	28629 Myers Country Lane	Valley Center	CA	92082	US
+92637	4.00	3	699000	2843	Single Family Detached	1992	db-postgres	2015-05-11 11:37:26-07	10157 Rancho Roble	Escondido	CA	92026	US
+93502	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+95189	4.50	4	799000	3721	Single Family Detached	1999	db-postgres	2015-03-24 11:22:19-07	19305 MARSHALL WAY	Valley Center	CA	92082	US
+95401	2.50	3	1749900	3000	Single Family Detached	2000	db-postgres	2015-04-09 11:29:57-07	25502 Lake Wohlford	Escondido	CA	92027	US
+96154	2.00	3	239000	1412	Single Family Detached	1966	db-postgres	2015-05-30 18:43:00-07	3014 Broken Arrow Rd	Borrego Springs	CA	92004	US
+98817	2.00	3	675000	1900	Single Family Detached	1952	db-postgres	2015-07-28 11:43:12-07	3676 Harding Street	Carlsbad	CA	92008	US
+100713	3.00	4	674000	2050	Single Family Detached	1979	db-postgres	2015-08-18 11:46:44-07	8978 Stimson	San Diego	CA	92129	US
+101392	3.00	4	689999	2050	Single Family Detached	1979	db-postgres	2015-07-11 11:38:25-07	13207 Sundance Avenue	San Diego	CA	92129	US
+106970	5.50	5	1750000	4981	Single Family Detached	1990	db-postgres	2015-05-05 06:13:00-07	7302 Bolero	Carlsbad	CA	92009	US
+111862	1.00	3	1599000	1500	Single Family Detached	1979	db-postgres	2015-05-09 11:21:39-07	15720 Sycamore Canyon Rd	Poway	CA	92064	US
+117446	2.50	4	719000	2350	Single Family Detached	1991	db-postgres	2015-08-20 22:16:00-07	2090 Aspen	San Marcos	CA	92078	US
+117497	2.00	3	485000	1482	Single Family Detached	1993	db-postgres	2015-08-26 04:30:00-07	1041 Honeysuckle Dr.	San Marcos	CA	92078	US
+118286	3.00	4	659900	2584	Single Family Detached	1971	db-postgres	2015-06-23 11:39:37-07	610 Washingtonia	San Marcos	CA	92078	US
+119284	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+120238	2.00	5	825000	2051	Single Family Detached	1987	db-postgres	2015-07-25 11:31:39-07	7927 Avenida Diestro	Carlsbad	CA	92009	US
+120244	2.00	3	649999	1478	Single Family Detached	1987	db-postgres	2015-07-31 11:28:12-07	7915 Avenida Diestro	Carlsbad	CA	92009	US
+120854	2.00	4	395000	1500	Single Family Detached	1972	db-postgres	2015-07-29 00:21:00-07	3011 Laurashawn	Escondido	CA	92026	US
+121819	2.00	3	420000	1616	Single Family Detached	1971	db-postgres	2015-07-18 11:40:42-07	1982 David Drive	Escondido	CA	92026	US
+122988	2.50	4	469500	2268	Single Family Detached	1980	db-postgres	2015-07-17 15:56:35-07	1402 Westwood	Escondido	CA	92026	US
+124887	3.00	5	569000	2333	Single Family Detached	1979	db-postgres	2015-02-27 11:45:48-08	2351 Stewart Place	Escondido	CA	92027	US
+125368	4.00	6	569900	3453	Single Family Detached	1962	db-postgres	2015-07-31 11:29:36-07	441 Bougher Road	San Marcos	CA	92069	US
+127484	6.50	5	7999000	8804	Single Family Detached	2004	db-postgres	2015-06-26 11:02:00-07	7213 ROMERO DRIVE	La Jolla	CA	92037	US
+128765	2.00	3	365000	1300	Single Family Detached	1971	db-postgres	2015-08-21 11:56:55-07	1039 Harding St	Escondido	CA	92027	US
+131676	3.00	4	1050000	2253	Single Family Detached	1972	db-postgres	2015-09-04 23:36:00-07	5643 Desert View Drive	La Jolla	CA	92037	US
+132059	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+132409	2.00	3	349900	1240	Single Family Detached	1960	db-postgres	2015-08-01 11:47:40-07	560 N Cedar	Escondido	CA	92025	US
+132472	2.00	3	359900	1281	Single Family Detached	1955	db-postgres	2015-08-07 20:55:00-07	835 E Washington Ave	Escondido	CA	92025	US
+133259	1.50	3	525000	1054	Single Family Detached	1956	db-postgres	2015-09-05 22:23:00-07	4329 Taos Dr.	San Diego	CA	92117	US
+133540	2.00	3	375000	1534	Single Family Detached	1959	db-postgres	2015-07-29 22:37:00-07	2135 Glendridge Road	Escondido	CA	92027	US
+133947	2.50	4	599000	2241	Single Family Detached	1990	db-postgres	2015-06-28 11:23:32-07	2883 Jed Road	Escondido	CA	92027	US
+137124	2.50	4	799000	3000	Single Family Detached	2011	db-postgres	2015-04-15 22:36:00-07	1393 Park Hill Lane	Escondido	CA	92025	US
+137140	3.50	4	719000	3494	Single Family Detached	1978	db-postgres	2015-08-25 11:43:15-07	1651 Vladic Lane	Escondido	CA	92027	US
+137836	2.00	3	585000	1440	Single Family Detached	1968	db-postgres	2015-06-16 04:16:00-07	6130 Redbrook Road	San Diego	CA	92117	US
+139772	2.00	3	449000	1280	Single Family Detached	1957	db-postgres	2015-07-05 07:31:00-07	569 Montview Dr	Escondido	CA	92025	US
+140908	5.50	6	1098000	4750	Single Family Detached	1994	db-postgres	2015-08-01 11:28:51-07	2451 Canyon Creek	Escondido	CA	92025	US
+141501	2.00	3	725000	2013	Single Family Detached	1978	db-postgres	2015-06-14 05:46:00-07	1910 Quail Glen Road	Escondido	CA	92029	US
+141674	3.50	4	850000	3136	Single Family Detached	1981	db-postgres	2015-06-27 22:59:00-07	10385 Eagle Lake Dr.	Escondido	CA	92029	US
+142155	2.00	3	785000	2638	Single Family Detached	1989	db-postgres	2015-06-08 18:10:00-07	1527 Mandeville Place	Escondido	CA	92029	US
+144378	2.00	5	489000	2155	Single Family Detached	1965	db-postgres	2015-08-22 11:53:13-07	11315 Manzanita Rd.	Lakeside	CA	92040	US
+144511	1.00	2	229000	806	Single Family Detached	1947	db-postgres	2015-06-20 11:45:12-07	1329 Canyon	Julian	CA	92036	US
+159151	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+159445	2.00	3	1100000	2252	Single Family Detached	1978	db-postgres	2015-08-21 00:07:00-07	773 Val Sereno Dr.	Encinitas	CA	92024	US
+159493	4.50	6	2500000	6044	Single Family Detached	1993	db-postgres	2015-06-05 01:11:00-07	1052 Wiegand	Encinitas	CA	92024	US
+161524	6.50	7	8900000	9341	Single Family Detached	1999	db-postgres	2015-08-24 11:46:00-07	6546 La Valle Plateada	Rancho Santa Fe	CA	92067	US
+164798	3.00	7	649900	2601	Single Family Detached	1998	db-postgres	2015-08-14 01:32:00-07	13652 Braeswood Terrace	El Cajon	CA	92021	US
+169955	3.50	4	2600000	3000	Single Family Detached	1958	db-postgres	2015-06-16 11:34:38-07	1620 Los Altos Rd	San Diego	CA	92109	US
+172058	3.00	4	900000	2128	Single Family Detached	1962	db-postgres	2015-07-25 11:34:41-07	5012 San Joaquin Drive	San Diego	CA	92109	US
+172222	3.50	5	839900	3354	Single Family Detached	2000	db-postgres	2015-06-17 17:31:41-07	17106 Garjan Ln	Ramona	CA	92065	US
+172409	2.00	3	849800	1724	Single Family Detached	1972	db-postgres	2015-06-17 17:31:41-07	16945 Whirlwind Lane	Ramona	CA	92065	US
+172546	4.00	4	1869000	5000	Single Family Detached	2009	db-postgres	2015-08-01 11:52:34-07	15362 Skyridge Road	Poway	CA	92064	US
+172980	2.00	3	829000	2150	Single Family Detached	2013	db-postgres	2015-07-17 15:51:37-07	1812 Black Canyon Road	Ramona	CA	92065	US
+173956	2.00	3	439900	1420	Single Family Detached	1973	db-postgres	2015-08-21 14:41:00-07	1223 Olive Street	Ramona	CA	92065	US
+174402	3.00	4	509000	2536	Single Family Detached	1989	db-postgres	2015-07-23 11:43:43-07	528 Amigos	Ramona	CA	92065	US
+174418	3.00	3	399000	2000	Single Family Detached	1961	db-postgres	2014-08-08 08:08:23-07	421 Askew	Ramona	CA	92065	US
+174935	2.00	3	389800	1450	Single Family Detached	1975	db-postgres	2015-08-26 11:37:56-07	2335 San Diego Avenue	Ramona	CA	92065	US
+175226	2.00	3	574000	1600	Single Family Detached	1960	db-postgres	2015-08-25 15:40:00-07	3956 Armstrong	San Diego	CA	92111	US
+176573	2.00	3	484900	1485	Single Family Detached	1963	db-postgres	2015-08-03 11:48:30-07	3534 Fireway Dr.	San Diego	CA	92111	US
+176642	2.00	3	429000	1568	Single Family Detached	1987	db-postgres	2015-09-05 16:25:00-07	1097 Via Alegre	Ramona	CA	92065	US
+179322	4.50	4	1995000	2806	Single Family Detached	2015	db-postgres	2015-07-23 18:57:00-07	3415 Jewell Street	San Diego	CA	92109	US
+181124	2.00	3	273500	1600	Single Family Detached	2010	db-postgres	2015-08-08 06:22:00-07	2610 Salton Vista	Julian	CA	92036	US
+183366	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+183519	2.50	2	1498000	2408	Single Family Detached	1991	db-postgres	2014-08-05 22:36:00-07	731 AVOCADO PLACE	Del Mar	CA	92014	US
+184736	3.50	5	2195000	2778	Single Family Detached	1971	db-postgres	2015-03-26 15:27:02-07	2214 El Amigo	Del Mar	CA	92014	US
+185700	3.00	5	3100000	2860	Single Family Detached	1958	db-postgres	2015-07-14 11:30:44-07	120 Ocean View	Del Mar	CA	92014	US
+186061	2.50	4	979000	2160	Single Family Detached	1945	db-postgres	2015-07-01 22:37:00-07	3548 Eugene Place	San Diego	CA	92116	US
+186719	4.50	5	2875000	4800	Single Family Detached	1987	db-postgres	2015-07-25 11:50:29-07	15129 Rancho Real	Del Mar	CA	92014	US
+194942	1.00	3	385000	1006	Single Family Detached	1972	db-postgres	2015-09-04 17:00:00-07	7748 Tyrolean Rd	San Diego	CA	92126	US
+194965	2.00	3	535000	1275	Single Family Detached	1972	db-postgres	2015-08-21 06:48:38-07	11179 Tyrolean Way	San Diego	CA	92126	US
+196511	1.00	3	719000	1085	Single Family Detached	1948	db-postgres	2015-08-09 11:50:45-07	1816 Catalina Blvd	San Diego	CA	92107	US
+199301	2.00	3	499000	1275	Single Family Detached	1972	db-postgres	2015-08-14 11:54:04-07	10943 Martinique	San Diego	CA	92126	US
+203155	2.50	4	749900	2510	Single Family Detached	1992	db-postgres	2014-08-08 08:08:23-07	9571 Oviedo	San Diego	CA	92129	US
+204892	1.00	2	629000	816	Single Family Detached	1939	db-postgres	2015-07-17 16:03:02-07	3441 Felton	San Diego	CA	92104	US
+208818	2.00	4	525000	1267	Single Family Detached	1985	db-postgres	2015-08-02 03:23:00-07	12542 Glenoak Rd	Poway	CA	92064	US
+208821	1.50	3	400000	1131	Single Family Detached	1959	db-postgres	2015-08-05 04:01:00-07	14231 Tobiasson	Poway	CA	92064	US
+210385	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+213237	2.50	5	749900	2676	Single Family Detached	1979	db-postgres	2015-08-07 21:22:00-07	13412 Salmon River Rd	San Diego	CA	92129	US
+213652	3.00	4	825000	2457	Single Family Detached	1988	db-postgres	2015-08-02 07:02:00-07	12742 Kestrel St.	San Diego	CA	92129	US
+216963	2.50	5	789900	2232	Single Family Detached	1996	db-postgres	2015-08-28 22:46:00-07	11598 Tree Hollow Ln	San Diego	CA	92128	US
+217188	3.00	4	659900	2025	Single Family Detached	1960	db-postgres	2015-08-05 11:45:09-07	4941 Defiance Way	San Diego	CA	92115	US
+217972	2.00	3	440000	1332	Single Family Detached	1973	db-postgres	2015-09-04 23:45:00-07	12403 Old Pomerado Rd.	Poway	CA	92064	US
+218060	2.00	4	549000	1342	Single Family Detached	1968	db-postgres	2015-08-04 11:43:01-07	13129 Coyotero Dr.	Poway	CA	92064	US
+218092	2.00	5	584900	1800	Single Family Detached	1971	db-postgres	2015-06-05 18:07:00-07	13353 Arikara Drive	Poway	CA	92064	US
+223840	2.50	4	699000	2119	Single Family Detached	1986	db-postgres	2014-07-02 04:45:00-07	11941 Deerfoot Road	San Diego	CA	92131	US
+226671	3.50	5	1649000	3831	Single Family Detached	2000	db-postgres	2015-08-06 00:55:00-07	12277 Berea Ct	Poway	CA	92064	US
+226851	4.50	6	1325000	3872	Single Family Detached	2000	db-postgres	2015-05-21 11:21:09-07	12259 Stonemill	Poway	CA	92064	US
+228172	2.00	3	519000	1498	Single Family Detached	1959	db-postgres	2015-09-08 19:35:00-07	14411 Springvale Street	Poway	CA	92064	US
+228174	2.00	5	550000	1980	Single Family Detached	1963	db-postgres	2015-07-21 11:29:58-07	14423 Springvale Street	Poway	CA	92064	US
+228890	2.00	4	539000	1448	Single Family Detached	1976	db-postgres	2015-05-06 11:25:17-07	13312 Racquet Ct	Poway	CA	92064	US
+229284	2.50	4	525600	1727	Single Family Detached	1962	db-postgres	2015-05-07 11:34:07-07	7824 Highwood	La Mesa	CA	91941	US
+229708	3.00	3	529000	2825	Single Family Detached	2007	db-postgres	2015-09-04 23:08:00-07	22383 JANS OAK VIEW	Ramona	CA	92065	US
+230340	2.00	3	479900	1073	Single Family Detached	1972	db-postgres	2014-10-22 00:53:00-07	10261 Westonhill Dr	San Diego	CA	92126	US
+233360	5.00	5	3450000	4257	Single Family Detached	1950	db-postgres	2015-04-25 11:21:38-07	2035 TORREY PINES ROAD	La Jolla	CA	92037	US
+233475	7.00	6	7500000	5905	Single Family Detached	1960	db-postgres	2014-12-16 11:31:13-08	7956 Avenida Alamar	La Jolla	CA	92037	US
+234308	2.00	4	399000	2072	Single Family Detached	1950	db-postgres	2015-07-22 11:44:17-07	1264 Naranca	El Cajon	CA	92021	US
+234793	1.50	3	399900	1350	Single Family Detached	1959	db-postgres	2015-03-10 04:56:00-07	6226 Lake Arago Ave	San Diego	CA	92119	US
+237360	2.00	4	560000	2036	Single Family Detached	1965	db-postgres	2015-05-02 11:26:01-07	1222 El Mio	El Cajon	CA	92020	US
+239285	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+241812	2.50	3	669900	1922	Single Family Detached	1966	db-postgres	2015-09-06 11:38:01-07	4630 Mission Bell Lane	La Mesa	CA	91941	US
+242034	1.50	3	619000	1600	Single Family Detached	1961	db-postgres	2015-08-14 11:53:55-07	5184 Winthrop Street	San Diego	CA	92117	US
+242966	4.50	4	3200000	3803	Single Family Detached	1963	db-postgres	2015-07-15 10:34:00-07	6130 TERRYHILL DRIVE	La Jolla	CA	92037	US
+244169	2.50	3	1195000	2134	Single Family Detached	1967	db-postgres	2015-07-01 21:40:00-07	2888 Palomino	La Jolla	CA	92037	US
+250720	2.50	5	610000	2001	Single Family Detached	1967	db-postgres	2015-08-04 11:42:36-07	4775 Redbrook Ct.	San Diego	CA	92117	US
+250764	2.00	3	595000	1561	Single Family Detached	1962	db-postgres	2015-07-21 01:43:00-07	4386 Chelford	San Diego	CA	92117	US
+250767	3.00	4	699000	1824	Single Family Detached	1962	db-postgres	2015-07-24 11:29:33-07	5968 Camber  Dr	San Diego	CA	92117	US
+253922	2.00	3	449000	1256	Single Family Detached	1970	db-postgres	2015-08-13 11:37:11-07	1836 Quicker Rd	El Cajon	CA	92021	US
+256370	2.00	4	478900	1650	Single Family Detached	1960	db-postgres	2015-08-13 11:51:27-07	1621 Markerry Ave	El Cajon	CA	92019	US
+257083	3.00	4	665000	2880	Single Family Detached	1976	db-postgres	2015-06-21 11:36:38-07	11715 Rocoso Road	Lakeside	CA	92040	US
+258379	2.00	4	459000	1444	Single Family Detached	1974	db-postgres	2015-09-06 11:58:12-07	10642 Felix	Santee	CA	92071	US
+259915	3.00	4	569988	2564	Single Family Detached	1985	db-postgres	2014-10-01 07:32:00-07	2107 Wind River	El Cajon	CA	92019	US
+260206	2.00	3	385000	1032	Single Family Detached	1977	db-postgres	2015-09-05 06:00:00-07	11617 Rio Fondo	Lakeside	CA	92040	US
+261197	3.00	3	470000	1439	Single Family Detached	1987	db-postgres	2015-06-28 01:29:00-07	1758 Wingfoot Place	El Cajon	CA	92019	US
+261458	2.00	3	475000	1274	Single Family Detached	1970	db-postgres	2015-08-13 11:50:30-07	9761 Halberns	Santee	CA	92071	US
+262585	2.00	3	374900	1272	Single Family Detached	1959	db-postgres	2015-08-10 00:39:00-07	9232 Heatherdale St	Santee	CA	92071	US
+264019	2.00	4	499000	1976	Single Family Detached	1972	db-postgres	2015-08-06 11:43:08-07	9911 Via Francis	Santee	CA	92071	US
+264307	2.00	4	459000	1392	Single Family Detached	1956	db-postgres	2015-06-01 11:47:38-07	10855 EL NOPAL	Santee	CA	92071	US
+265835	1.00	2	299900	918	Single Family Detached	1955	db-postgres	2015-07-29 23:24:00-07	11920 Triple Ln	Lakeside	CA	92040	US
+266821	3.00	4	565000	2128	Single Family Detached	1973	db-postgres	2015-06-26 11:47:18-07	8420 Amino Dr	San Diego	CA	92071	US
+267204	2.00	3	716000	1640	Single Family Detached	1938	db-postgres	2015-02-20 11:35:59-08	2165 Union Street	San Diego	CA	92101	US
+267521	2.00	3	389000	1240	Single Family Detached	1999	db-postgres	2015-07-31 04:48:00-07	8448 Desiree Lane	Santee	CA	92071	US
+270070	2.00	8	480000	2172	Single Family Detached	1958	db-postgres	2015-05-15 11:40:29-07	538 Pepper Drive	El Cajon	CA	92021	US
+272670	6.00	8	1449000	5900	Single Family Detached	1995	db-postgres	2015-08-10 11:31:07-07	9268 Palomino Ridge Drive	Lakeside	CA	92040	US
+272754	2.00	3	339900	1026	Single Family Detached	1973	db-postgres	2015-09-02 11:38:25-07	9924 Sorrel Ave	Lakeside	CA	92040	US
+273234	3.00	4	539000	2203	Single Family Detached	2005	db-postgres	2015-07-15 11:35:43-07	9545 chimney rock	El Cajon	CA	92021	US
+273354	2.00	3	399000	1455	Single Family Detached	2001	db-postgres	2014-07-02 04:45:00-07	9927 Hawley Road	El Cajon	CA	92021	US
+274379	3.00	4	530000	2283	Single Family Detached	1993	db-postgres	2015-09-01 11:49:08-07	12729 Los Coches Ct	Lakeside	CA	92040	US
+276148	2.00	4	499000	1771	Single Family Detached	1976	db-postgres	2015-06-23 11:21:04-07	1894 Jasmine	El Cajon	CA	92021	US
+276590	2.00	3	859000	1750	Single Family Detached	1938	db-postgres	2015-07-28 11:44:29-07	2218 Dale	San Diego	CA	92104	US
+277034	4.00	5	775000	3630	Single Family Detached	1993	db-postgres	2015-07-30 02:43:00-07	1279 Horsemill	El Cajon	CA	92021	US
+277177	1.00	3	495000	774	Single Family Detached	1921	db-postgres	2015-07-17 16:03:02-07	1729 Fern Street	San Diego	CA	92102	US
+277398	3.00	5	989000	3706	Single Family Detached	2006	db-postgres	2015-07-29 11:43:36-07	501 Josh Way	Alpine	CA	91901	US
+277635	2.50	3	755000	2634	Single Family Detached	1992	db-postgres	2015-07-13 11:34:28-07	315 Sneath Way Alpine, CA 91901	Alpine	CA	91901	US
+278655	3.00	5	549000	2427	Single Family Detached	1995	db-postgres	2015-08-13 11:57:56-07	2877 Manzanita View Rd	Alpine	CA	91901	US
+282243	2.00	4	395000	1268	Single Family Detached	1972	db-postgres	2014-12-29 07:28:00-08	3154 G Street	San Diego	CA	92102	US
+282836	1.00	2	939900	1015	Single Family Detached	1952	db-postgres	2015-07-22 00:38:00-07	1104 Emerald	San Diego	CA	92109	US
+284950	3.00	4	565000	1452	Single Family Detached	1954	db-postgres	2014-07-02 04:45:00-07	4028 Dalles	San Diego	CA	92117	US
+285886	3.00	5	598500	2117	Single Family Detached	1960	db-postgres	2015-08-28 11:43:39-07	3581 Mount Aclare Ave	San Diego	CA	92111	US
+286164	2.00	3	599000	1200	Single Family Detached	1959	db-postgres	2015-09-02 11:37:31-07	4345 Mount Foster	San Diego	CA	92117	US
+286936	2.00	4	520000	1564	Single Family Detached	1962	db-postgres	2015-09-04 11:43:38-07	4156 Amoroso Street	San Diego	CA	92111	US
+287409	2.00	4	525000	1308	Single Family Detached	1959	db-postgres	2015-09-05 07:08:00-07	3952 Ashford	San Diego	CA	92111	US
+287720	2.00	4	579000	1660	Single Family Detached	1960	db-postgres	2015-07-31 11:41:41-07	3959 Armstrong St	San Diego	CA	92111	US
+287845	2.00	3	509000	1220	Single Family Detached	1958	db-postgres	2015-07-02 11:41:56-07	7548 Beal Street	San Diego	CA	92111	US
+288163	2.00	3	460000	1232	Single Family Detached	1958	db-postgres	2015-08-28 20:19:00-07	3685 Antiem Street	San Diego	CA	92111	US
+289098	1.00	4	310000	1252	Single Family Detached	1952	db-postgres	2015-08-14 11:49:22-07	835 Gwen st.	San Diego	CA	92114	US
+291735	2.50	3	675000	1632	Single Family Detached	1970	db-postgres	2015-08-17 11:45:14-07	3644 Paul Jones Ave	San Diego	CA	92117	US
+293137	3.00	4	725000	n/a	Other	1953	db-postgres	2015-05-12 19:36:00-07	3136 NATCHEZ AVE	San Diego	CA	92117	US
+293544	2.00	4	689000	1728	Single Family Detached	1969	db-postgres	2015-08-08 11:53:19-07	5491 Via Alcazar	San Diego	CA	92111	US
+295058	2.00	4	525000	1944	Single Family Detached	1960	db-postgres	2015-08-21 11:37:57-07	3051 Kobe Drive	San Diego	CA	92123	US
+295258	2.00	3	420000	1350	Single Family Detached	1959	db-postgres	2015-07-31 11:28:27-07	271 Las Flores	Chula Vista	CA	91910	US
+295306	1.00	3	450000	1286	Single Family Detached	1955	db-postgres	2015-07-24 11:44:52-07	122 F-St.	Chula Vista	CA	91910	US
+295433	3.00	5	780000	2947	Single Family Detached	1999	db-postgres	2015-07-28 11:50:18-07	2724 W Canyon Ave	San Diego	CA	92123	US
+295813	2.00	3	469900	2000	Single Family Detached	1951	db-postgres	2015-08-14 23:03:00-07	173 Whitney	Chula Vista	CA	91910	US
+297701	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+298992	2.00	3	535000	1132	Single Family Detached	1950	db-postgres	2015-08-11 11:54:13-07	1420 Galveston Street	San Diego	CA	92110	US
+302107	3.00	5	525000	2262	Single Family Detached	1992	db-postgres	2015-08-05 23:33:00-07	2256 Tokaj Rd	Spring Valley	CA	91977	US
+302925	2.00	3	599999	1650	Single Family Detached	1967	db-postgres	2015-07-31 05:26:00-07	1740 Glidden Court	San Diego	CA	92111	US
+303058	2.50	4	479000	1828	Single Family Detached	1994	db-postgres	2015-09-02 11:44:35-07	1227 La Mesa Ave	Spring Valley	CA	91977	US
+304154	2.50	4	1150000	3421	Single Family Detached	1995	db-postgres	2015-06-18 05:43:58-07	5050 Cliff Pl	San Diego	CA	92116	US
+305456	3.00	4	240000	1797	Single Family Detached	1990	db-postgres	2015-08-14 08:03:00-07	636 S Siena Street	San Diego	CA	92114	US
+306218	2.00	3	249000	1394	Single Family Detached	1960	db-postgres	2015-08-04 11:30:09-07	615 WORTHINGTON	Spring Valley	CA	91977	US
+307691	2.00	2	899000	1411	Single Family Detached	1975	db-postgres	2015-08-27 11:47:06-07	4304 Falcon St	San Diego	CA	92103	US
+309216	3.00	4	349500	1632	Single Family Detached	1962	db-postgres	2015-05-13 10:57:00-07	5919 Albemarle St.	San Diego	CA	92139	US
+310098	2.00	3	549000	1274	Single Family Detached	1936	db-postgres	2015-07-29 11:29:40-07	4385 35th Street	San Diego	CA	92104	US
+313494	2.00	4	1160000	1995	Single Family Detached	1951	db-postgres	2015-07-28 20:49:00-07	1716 Warrington Street	San Diego	CA	92107	US
+314707	3.50	5	700000	2537	Single Family Detached	1975	db-postgres	2015-05-23 23:22:00-07	419 Stoneridge	Bonita	CA	91902	US
+316165	3.50	4	1799000	2789	Single Family Detached	1948	db-postgres	2015-04-03 22:09:00-07	1677 Torrance	San Diego	CA	92103	US
+319086	1.00	1	110000	500	Single Family Detached	1946	db-postgres	2015-09-02 11:42:59-07	29595 Oak Dr	Campo	CA	91906	US
+320852	2.50	2	349000	1228	Single Family Attached	1987	db-postgres	2015-04-18 11:35:12-07	3046 40th Street	San Diego	CA	92105	US
+325873	2.50	5	625000	1992	Single Family Detached	1969	db-postgres	2015-09-02 11:38:13-07	8805 Highsmith Lane	San Diego	CA	92119	US
+326460	2.00	4	629995	1517	Single Family Detached	1957	db-postgres	2015-07-17 14:02:00-07	6622 Cartwright	San Diego	CA	92120	US
+326648	2.00	3	499900	1188	Single Family Detached	1956	db-postgres	2015-07-21 20:53:00-07	6491 Glenroy Street	San Diego	CA	92120	US
+326988	2.00	2	549500	1483	Single Family Detached	1955	db-postgres	2015-08-17 04:15:00-07	6533 Glenroy St.	San Diego	CA	92120	US
+328662	2.00	4	599000	2042	Single Family Detached	1967	db-postgres	2015-08-01 14:10:00-07	5777 Bounty St.	San Diego	CA	92120	US
+329990	2.00	4	529900	1404	Single Family Detached	1965	db-postgres	2015-09-03 18:49:00-07	7576 Seton Hall St	La Mesa	CA	91942	US
+333331	4.00	5	829000	2858	Single Family Detached	1951	db-postgres	2015-09-04 04:00:00-07	4560 55TH ST	San Diego	CA	92115	US
+333515	2.50	5	629000	2304	Single Family Detached	1967	db-postgres	2015-05-18 11:39:29-07	5233 Prosperity Lane	San Diego	CA	92115	US
+333699	2.50	4	625000	1672	Single Family Detached	1971	db-postgres	2015-08-08 19:15:00-07	5428 Maisel Way	San Diego	CA	92115	US
+334434	1.00	2	419500	856	Single Family Detached	1951	db-postgres	2015-08-26 07:54:00-07	6534 Bradford St	San Diego	CA	92115	US
+334563	3.00	3	425000	1844	Single Family Detached	1951	db-postgres	2014-10-19 15:19:00-07	4525 Seminole Drive	San Diego	CA	92115	US
+334659	2.00	3	540000	1390	Single Family Detached	1951	db-postgres	2015-05-02 11:33:53-07	4815 62nd Street	San Diego	CA	92115	US
+334826	2.00	3	315000	990	Single Family Detached	1953	db-postgres	2015-06-29 16:25:00-07	1486 14th	Imperial Beach	CA	91932	US
+335211	2.00	5	575000	2485	Single Family Detached	1892	db-postgres	2015-06-04 11:32:12-07	4821 69th Place	San Diego	CA	92115	US
+335259	1.00	2	370000	918	Single Family Detached	1952	db-postgres	2015-05-23 23:46:00-07	4710 70th	La Mesa	CA	91942	US
+336205	2.00	3	439900	1563	Single Family Detached	1975	db-postgres	2015-08-28 12:01:04-07	7190 Char Marie Cir	La Mesa	CA	91942	US
+336223	2.00	3	485000	1368	Single Family Detached	1946	db-postgres	2015-08-21 01:38:00-07	7468 Ohio PL	La Mesa	CA	91941	US
+336413	2.00	3	349900	1271	Single Family Detached	1973	db-postgres	2015-04-22 11:40:35-07	1860 Tremaine Way	San Diego	CA	92154	US
+336747	2.00	3	389500	1538	Single Family Detached	1951	db-postgres	2014-12-02 03:40:00-08	7284 Princeton Ave	La Mesa	CA	91942	US
+336779	1.00	2	399000	784	Single Family Detached	1941	db-postgres	2015-07-17 16:08:10-07	4533 Olive Avenue	La Mesa	CA	91942	US
+336802	2.00	3	510000	1443	Single Family Detached	1957	db-postgres	2015-08-01 16:07:00-07	4368 Vetter	La Mesa	CA	91942	US
+336843	1.00	2	335000	870	Single Family Detached	1942	db-postgres	2015-04-04 00:38:00-07	4490 Olive	La Mesa	CA	91942	US
+337174	1.00	3	429000	1171	Single Family Detached	1949	db-postgres	2015-08-01 06:12:00-07	7711 Loma Vista Drive	La Mesa	CA	91942	US
+337705	4.00	7	775000	4050	Single Family Detached	1964	db-postgres	2015-04-17 17:35:00-07	4327 Valle Dr.	La Mesa	CA	91941	US
+343321	2.00	3	519000	1880	Single Family Detached	1953	db-postgres	2015-05-17 11:37:14-07	7832 Cinnabar Drive	La Mesa	CA	91941	US
+343939	3.00	5	485000	2145	Single Family Detached	1966	db-postgres	2015-06-29 11:38:57-07	5034 Auburn Dr	San Diego	CA	92105	US
+345070	1.50	3	409000	1290	Single Family Detached	1950	db-postgres	2015-06-02 11:26:10-07	3349 54th Street	San Diego	CA	92105	US
+345609	1.00	2	359000	1260	Single Family Detached	1951	db-postgres	2014-08-07 08:30:46-07	5851 Thorn	San Diego	CA	92105	US
+345869	2.00	3	470000	1250	Single Family Detached	1954	db-postgres	2014-11-27 12:44:55-08	5453 Krenning Street	San Diego	CA	92105	US
+346050	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+348050	2.00	3	415000	1590	Single Family Detached	1980	db-postgres	2015-08-11 11:30:31-07	7096 Mount Vernon	Lemon Grove	CA	91945	US
+348435	1.00	2	315000	907	Single Family Detached	1955	db-postgres	2015-08-13 11:48:47-07	7518 Davidson Ave	Lemon Grove	CA	91945	US
+349152	1.50	3	579900	1776	Single Family Detached	1951	db-postgres	2015-06-30 11:26:30-07	1042 Hacienda Dr	El Cajon	CA	92020	US
+350629	2.00	3	369000	1248	Single Family Detached	1958	db-postgres	2015-07-27 11:53:24-07	734 Farview St	El Cajon	CA	92021	US
+350663	2.00	3	380000	1346	Single Family Detached	1952	db-postgres	2015-07-14 11:22:18-07	768 N Cuyamaca	El Cajon	CA	92020	US
+351790	3.50	4	675000	2884	Single Family Detached	1947	db-postgres	2015-05-18 11:41:02-07	1107 Greenfield	El Cajon	CA	92021	US
+352802	2.00	3	469888	1603	Single Family Detached	1953	db-postgres	2015-08-28 08:24:00-07	5910 Nagel Street	La Mesa	CA	91942	US
+354777	2.00	3	385000	1316	Single Family Detached	1965	db-postgres	2014-08-08 08:08:23-07	528 El Monte	El Cajon	CA	92020	US
+355517	2.00	2	425000	1507	Single Family Detached	1953	db-postgres	2015-06-16 11:38:57-07	426 Manor	El Cajon	CA	92020	US
+355818	2.00	4	595000	1716	Single Family Detached	1956	db-postgres	2015-07-04 11:34:14-07	1609 Annette Way	El Cajon	CA	92020	US
+359329	3.50	5	799000	3613	Single Family Detached	1964	db-postgres	2014-08-05 22:36:00-07	1322 HARDIN DRIVE	El Cajon	CA	92020	US
+359333	2.50	3	719000	2508	Single Family Detached	1963	db-postgres	2015-09-04 21:58:00-07	1357 Hardin Dr.	El Cajon	CA	91941	US
+359476	2.00	3	425000	1999	Single Family Detached	1982	db-postgres	2015-07-17 15:57:29-07	1428 Emerald	El Cajon	CA	92020	US
+360214	2.50	4	625000	2372	Single Family Detached	1988	db-postgres	2014-08-08 08:08:23-07	1639 Cono Drive	El Cajon	CA	92020	US
+360579	1.00	2	419000	988	Single Family Detached	1948	db-postgres	2015-08-26 11:55:22-07	4936 Colina	La Mesa	CA	91942	US
+360793	3.00	4	749000	2138	Single Family Detached	1955	db-postgres	2015-08-07 23:20:00-07	8737 Chevy Chase	La Mesa	CA	91941	US
+361789	3.00	3	669900	1896	Single Family Detached	2015	db-postgres	2015-08-16 00:50:00-07	9170 Shirley Dr	La Mesa	CA	91941	US
+362104	2.50	4	899000	3360	Single Family Detached	1977	db-postgres	2015-07-10 11:21:18-07	10186 Vivera	La Mesa	CA	91941	US
+363045	3.00	5	829900	2988	Single Family Detached	1968	db-postgres	2015-05-09 11:31:44-07	1711 Circo Del Cielo Drive	El Cajon	CA	92020	US
+364644	2.00	3	499000	1770	Single Family Detached	1960	db-postgres	2015-09-05 11:56:35-07	4284 Panorama Dr	La Mesa	CA	91941	US
+364841	3.00	4	959000	3025	Single Family Detached	1981	db-postgres	2015-03-12 11:19:46-07	4282 Merritt Blvd	La Mesa	CA	91941	US
+366282	2.00	3	535000	1728	Single Family Detached	1978	db-postgres	2015-05-29 18:57:00-07	10768 Louisa	La Mesa	CA	91941	US
+366352	3.50	4	765000	2619	Single Family Detached	1968	db-postgres	2015-08-04 02:57:00-07	10008 Bonnie Vista	La Mesa	CA	91941	US
+366827	4.50	5	849000	3008	Single Family Detached	1967	db-postgres	2015-06-11 11:20:14-07	4205 Sunray Lane	La Mesa	CA	91941	US
+368595	2.00	3	374900	1089	Single Family Detached	1959	db-postgres	2015-07-06 18:09:00-07	9060 Rosedale Dr	Spring Valley	CA	91977	US
+369989	2.50	4	599000	2305	Single Family Detached	1980	db-postgres	2015-07-05 11:38:49-07	10418 Loma Rancho Drive	Spring Valley	CA	91978	US
+372476	2.00	3	545000	2761	Single Family Detached	1958	db-postgres	2015-08-01 16:07:00-07	1760 Naranca	El Cajon	CA	92019	US
+375093	3.00	5	610000	2682	Single Family Detached	1974	db-postgres	2015-07-05 19:28:00-07	2265 Orchard Ave	El Cajon	CA	92019	US
+375927	3.00	4	625000	2580	Single Family Detached	1979	db-postgres	2015-08-11 11:33:31-07	1912 Grove Rd.	El Cajon	CA	92020	US
+376022	2.00	3	469000	1116	Single Family Detached	1947	db-postgres	2015-07-22 11:44:17-07	1516 PLANTATION WAY	El Cajon	CA	92019	US
+376282	2.00	3	774900	2469	Single Family Detached	1989	db-postgres	2014-07-01 22:49:00-07	26024 Kornblum Drive	Escondido	CA	92026	US
+376925	2.50	3	549000	2075	Single Family Detached	1974	db-postgres	2015-07-28 11:52:58-07	2370 Singing Trails Court	El Cajon	CA	92019	US
+377289	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+377956	3.00	4	599000	2129	Single Family Detached	1982	db-postgres	2015-07-30 05:18:00-07	2002 Wind River Road	El Cajon	CA	92019	US
+382648	3.00	4	1745000	2800	Single Family Detached	1955	db-postgres	2015-07-29 11:44:03-07	1320 Willow St	San Diego	CA	92106	US
+383136	2.00	3	429900	1017	Single Family Detached	1956	db-postgres	2015-08-07 11:48:23-07	9739 Ramo Road	Santee	CA	92071	US
+383311	3.00	5	1575000	3076	Single Family Detached	1980	db-postgres	2015-08-11 21:19:00-07	920 Armada Terrace	San Diego	CA	92106	US
+386405	3.00	5	1875000	2715	Single Family Detached	1977	db-postgres	2015-06-10 11:22:06-07	267 J Ave	Coronado	CA	92118	US
+386621	3.00	4	1449900	1731	Single Family Detached	1982	db-postgres	2015-09-01 11:50:36-07	302 E Ave	Coronado	CA	92118	US
+386988	3.00	4	659900	2586	Single Family Detached	2001	db-postgres	2015-07-12 05:40:00-07	2915 Duck Pond Ln	Ramona	CA	92065	US
+388431	5.00	6	3490000	3476	Single Family Detached	2009	db-postgres	2015-07-08 11:22:41-07	111 Acacia Way	Coronado	CA	92118	US
+389732	2.00	6	1450000	3270	Single Family Detached	1890	db-postgres	2015-06-25 18:49:00-07	2823 Juniper St	San Diego	CA	92104	US
+390880	3.00	3	725000	1596	Single Family Detached	1945	db-postgres	2015-07-03 15:54:00-07	2370 Vancouver Ave	San Diego	CA	92104	US
+391465	1.00	3	425000	1087	Single Family Detached	1955	db-postgres	2015-07-04 21:17:00-07	4015 Juniper Street	San Diego	CA	92105	US
+391522	3.00	3	499900	1824	Single Family Detached	1954	db-postgres	2015-08-05 02:36:00-07	1969 Parrot	San Diego	CA	92105	US
+392358	1.00	2	225000	900	Single Family Detached	1927	db-postgres	2015-08-11 17:35:00-07	4048 Hilltop	San Diego	CA	92102	US
+394540	2.00	3	425000	1720	Single Family Detached	1978	db-postgres	2015-07-22 22:29:00-07	5938 Chaumont Dr	San Diego	CA	92114	US
+395520	2.00	3	299000	1170	Single Family Detached	1950	db-postgres	2015-07-31 20:27:00-07	421 28th St	San Diego	CA	92102	US
+396179	1.00	2	199000	1240	Single Family Detached	1950	db-postgres	2015-08-04 11:39:40-07	723 S Gregory	San Diego	CA	92113	US
+396211	1.00	2	150000	462	Single Family Detached	1948	db-postgres	2015-07-03 20:28:00-07	513 Morrison Street	San Diego	CA	92102	US
+399055	3.00	4	330000	2378	Single Family Detached	1990	db-postgres	2015-03-22 00:08:00-07	249 Ritchey	San Diego	CA	92114	US
+400558	5.50	4	2225000	4650	Single Family Detached	2003	db-postgres	2015-07-04 11:34:24-07	564 Camino El Dorado	Encinitas	CA	92024	US
+401499	3.50	3	849000	3721	Single Family Detached	2000	db-postgres	2015-06-26 11:30:59-07	15123 Post Oak Lane	El Cajon	CA	92021	US
+404636	2.00	3	489000	2306	Single Family Detached	1949	db-postgres	2015-07-14 11:37:55-07	3024 Palmer St.	National City	CA	91950	US
+405054	2.00	3	445000	1864	Single Family Detached	2003	db-postgres	2015-05-23 14:50:00-07	321 Natalie	Fallbrook	CA	92028	US
+405941	2.00	3	479900	1584	Single Family Detached	1958	db-postgres	2015-07-17 16:02:21-07	84 N 2nd Avenue	Chula Vista	CA	91910	US
+406657	2.00	3	329000	1254	Single Family Detached	1959	db-postgres	2015-06-26 11:41:55-07	5732 Calle Sal Si Puedes	San Diego	CA	92139	US
+406940	2.50	5	515000	1824	Single Family Detached	1985	db-postgres	2015-08-09 07:11:00-07	341 Kimball Terrace	Chula Vista	CA	91910	US
+408938	4.50	5	1895000	4495	Single Family Detached	2004	db-postgres	2015-08-21 00:29:00-07	940 Via Di Felicita	Encinitas	CA	92024	US
+409064	2.00	2	650000	1363	Single Family Detached	1951	db-postgres	2015-07-21 23:45:00-07	3254 Holly Way	Chula Vista	CA	91910	US
+411977	2.00	5	499995	2188	Single Family Detached	1951	db-postgres	2015-08-13 08:08:00-07	675 CLAIRE AVENUE	Chula Vista	CA	91910	US
+412194	2.00	3	559999	1815	Single Family Detached	1964	db-postgres	2015-08-06 23:39:05-07	207 E J Street	San Diego	CA	91910	US
+412239	4.00	6	900000	4562	Single Family Detached	1965	db-postgres	2015-08-06 23:36:00-07	171 Old Ranch Road	Bonita	CA	91902	US
+413524	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+418040	2.00	3	359000	1280	Single Family Detached	1974	db-postgres	2015-07-17 15:58:48-07	1025 Portola	Spring Valley	CA	91977	US
+418630	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+418666	2.00	3	349900	1300	Single Family Detached	1953	db-postgres	2015-07-23 01:26:00-07	8004 ANZA	San Diego	CA	92114	US
+418806	1.00	3	297500	994	Single Family Detached	1951	db-postgres	2015-07-29 05:19:00-07	7251 JAMACHA ROAD	San Diego	CA	92114	US
+418845	2.00	5	375000	1310	Single Family Detached	1954	db-postgres	2015-06-22 11:23:01-07	7944 Anza	San Diego	CA	92114	US
+418890	1.00	3	359000	900	Single Family Detached	1953	db-postgres	2015-09-02 22:36:00-07	644 Rytko St	San Diego	CA	92114	US
+420709	2.00	4	359900	1484	Single Family Detached	1984	db-postgres	2015-07-25 11:46:11-07	1924 Garden Park Court	San Diego	CA	92114	US
+421194	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+425180	2.00	4	259000	1490	Single Family Detached	1980	db-postgres	2014-07-02 04:45:00-07	358 Vecino Court	Spring Valley	CA	91977	US
+425192	2.50	3	650000	2952	Single Family Detached	1950	db-postgres	2015-07-29 21:15:00-07	6200 San Miguel Rd	Bonita	CA	91902	US
+427412	3.00	5	400000	1620	Single Family Detached	1966	db-postgres	2014-10-25 11:33:13-07	2425 Calle Chantae	San Diego	CA	92139	US
+428945	2.50	4	685000	2370	Single Family Detached	1975	db-postgres	2015-07-22 11:51:01-07	3209 Bonita Woods Dr	Bonita	CA	91902	US
+430829	2.50	6	800000	3180	Single Family Detached	1979	db-postgres	2015-03-27 11:28:54-07	5756 Sunny View Dr.	Bonita	CA	91902	US
+430918	4.00	4	970000	3351	Single Family Detached	1984	db-postgres	2015-09-04 20:11:00-07	3446 Malito Drive	Bonita	CA	91902	US
+431081	4.00	4	1250000	4508	Single Family Detached	1937	db-postgres	2015-08-21 11:54:51-07	3602 Lomacitas Ln	Bonita	CA	91902	US
+431744	2.00	3	372000	1285	Single Family Detached	1976	db-postgres	2015-07-08 11:33:37-07	2933 Acropolis PL	San Diego	CA	92139	US
+431825	2.50	4	499900	1947	Single Family Detached	1985	db-postgres	2015-01-10 04:20:00-08	346 Bay Leaf Dr	Chula Vista	CA	91910	US
+432267	5.00	5	1499900	4175	Single Family Detached	1964	db-postgres	2015-09-05 11:51:37-07	1005 Calle Mesita	Bonita	CA	91902	US
+434286	2.50	5	754900	2818	Single Family Detached	1989	db-postgres	2015-08-14 11:49:22-07	1577 Country Vistas Ln	Bonita	CA	91902	US
+437223	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+440775	3.00	4	434900	865	Single Family Detached	1939	db-postgres	2015-08-08 11:44:46-07	1137 Twin Oaks	Chula Vista	CA	91911	US
+441002	2.00	4	415000	1217	Single Family Detached	1970	db-postgres	2015-07-06 02:07:00-07	160 Palomar Street	Chula Vista	CA	91911	US
+443231	2.00	4	445000	1352	Single Family Detached	1970	db-postgres	2015-09-02 08:22:00-07	32 Jicama Way	Chula Vista	CA	91911	US
+444359	2.50	5	450000	2566	Single Family Detached	1974	db-postgres	2015-09-04 11:44:41-07	137 Rainier Ct.	Chula Vista	CA	91911	US
+444548	4.50	7	5750000	5480	Single Family Detached	2012	db-postgres	2015-07-14 05:21:00-07	6005 AVENIDA CRESTA	La Jolla	CA	92037	US
+445011	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+445997	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+449572	2.00	3	370000	1281	Single Family Detached	1969	db-postgres	2015-08-07 00:38:00-07	4023 Darwin Ave	San Diego	CA	92154	US
+450634	2.00	4	355000	1906	Single Family Detached	1971	db-postgres	2015-05-19 11:20:48-07	4297 Layla Way	San Diego	CA	92154	US
+450838	2.00	3	475000	2319	Single Family Detached	1980	db-postgres	2015-09-04 23:14:00-07	4391 El Cedro Court	San Diego	CA	92154	US
+452090	2.00	4	440000	1440	Single Family Detached	1961	db-postgres	2015-08-08 20:32:00-07	1851 Hermes Street	San Diego	CA	92154	US
+452104	2.00	4	380000	1293	Single Family Detached	1970	db-postgres	2015-09-03 15:16:54-07	1820 Jason Street	San Diego	CA	92154	US
+452679	1.00	2	179000	512	Single Family Detached	1948	db-postgres	2014-07-02 04:45:00-07	1476 27th Street	San Diego	CA	92154	US
+453353	2.50	4	599888	2200	Single Family Detached	2000	db-postgres	2015-07-15 15:00:00-07	5431 W Lilac	Bonsall	CA	92003	US
+466361	2.00	4	535000	1404	Single Family Detached	1958	db-postgres	2015-07-12 11:35:35-07	5080 Caywood	San Diego	CA	92117	US
+467903	2.00	3	525000	1113	Single Family Detached	1964	db-postgres	2015-08-04 11:45:22-07	6979 Princess View Drive	San Diego	CA	92120	US
+469190	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+469657	2.00	4	674900	2600	Single Family Detached	1964	db-postgres	2015-08-29 01:37:00-07	7268 Casper	San Diego	CA	92119	US
+469904	3.00	4	599900	1706	Single Family Detached	1970	db-postgres	2015-06-13 11:36:41-07	6205 Kimberly	La Mesa	CA	91942	US
+472533	2.00	4	375000	1577	Single Family Detached	1969	db-postgres	2015-08-25 11:48:08-07	409 Joann	Vista	CA	92084	US
+474387	3.50	5	1595000	3100	Single Family Detached	1975	db-postgres	2015-08-17 22:56:00-07	1521 Caudor	Encinitas	CA	92024	US
+474579	4.50	4	949000	3329	Single Family Detached	1999	db-postgres	2015-06-19 01:55:00-07	2821 Summit Drive	Escondido	CA	92025	US
+475713	7.00	6	3395000	5278	Single Family Detached	1969	db-postgres	2015-06-05 22:34:00-07	15706 Las Planideras	Rancho Santa Fe	CA	92067	US
+476896	2.00	3	419000	1868	Single Family Detached	1982	db-postgres	2015-07-25 11:32:05-07	190 Lakeview Ave	Spring Valley	CA	91977	US
+478538	2.50	2	5700000	2059	Single Family Detached	1952	db-postgres	2015-07-02 17:42:00-07	5564 Calumet	La Jolla	CA	92037	US
+479964	1.00	2	499000	746	Single Family Detached	1931	db-postgres	2015-08-27 15:36:00-07	2235 Polk Avenue	San Diego	CA	92104	US
+481918	1.00	2	279900	822	Single Family Detached	1927	db-postgres	2015-08-25 11:36:53-07	3853 45th Street	San Diego	CA	92105	US
+482161	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+484101	3.00	4	675000	3238	Single Family Detached	2000	db-postgres	2015-08-18 11:48:40-07	1336 Tierra Roja	Fallbrook	CA	92028	US
+484331	2.00	4	450000	1300	Single Family Detached	1990	db-postgres	2015-06-19 11:22:11-07	5280 Leon	Oceanside	CA	92057	US
+484348	4.00	4	1575000	4494	Single Family Detached	2005	db-postgres	2015-01-15 17:48:00-08	2897 Toulouse Ln	Fallbrook	CA	92028	US
+484472	3.50	4	1825000	4746	Single Family Detached	2006	db-postgres	2015-04-17 23:35:00-07	6955 Via De La Reina	Bonsall	CA	92003	US
+484756	3.00	3	998000	3318	Single Family Detached	1989	db-postgres	2015-04-14 19:02:00-07	28306 Crescent Hill	Escondido	CA	92026	US
+488106	2.00	3	600000	2308	Single Family Detached	1985	db-postgres	2015-06-19 11:19:35-07	514 Eldorado	Escondido	CA	92025	US
+488934	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+489873	5.50	7	3795000	7200	Single Family Detached	2005	db-postgres	2015-06-19 11:40:16-07	5193 Del Mar Mesa Road	San Diego	CA	92130	US
+492233	2.00	4	449000	2052	Single Family Detached	1978	db-postgres	2015-07-15 11:29:54-07	620 Rosalie Way	El Cajon	CA	92019	US
+492492	7.00	8	2199500	4520	Single Family Detached	2007	db-postgres	2015-08-07 16:58:00-07	11845 Tierra Del Sur	San Diego	CA	92130	US
+493457	2.00	3	472500	1300	Single Family Detached	1947	db-postgres	2015-08-20 20:25:00-07	6388 Malcolm Drive	San Diego	CA	92115	US
+495042	1.00	2	330000	816	Single Family Detached	1951	db-postgres	2015-07-31 11:52:25-07	688 5th	Chula Vista	CA	91910	US
+495122	1.00	2	330000	1032	Single Family Detached	1954	db-postgres	2015-07-31 00:37:00-07	643 Encinitas	San Diego	CA	92114	US
+495499	2.50	4	589000	2128	Single Family Detached	2001	db-postgres	2015-08-11 11:49:11-07	736 N Valley View Dr	Chula Vista	CA	91914	US
+497267	2.50	4	749000	2810	Single Family Detached	2000	db-postgres	2015-07-20 17:35:00-07	3639 Genista Pl	Fallbrook	CA	92028	US
+498184	3.50	4	679900	3005	Single Family Detached	2003	db-postgres	2015-07-14 15:17:00-07	18865 Old Julian Trl	Ramona	CA	92065	US
+501499	2.00	3	475000	1628	Single Family Detached	1956	db-postgres	2015-08-08 04:52:00-07	8885 LEMON AVE	La Mesa	CA	91941	US
+502764	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+503219	2.00	3	950000	2200	Single Family Detached	2001	db-postgres	2015-07-10 11:34:48-07	15706 Lyons Valley Rd	Jamul	CA	91935	US
+507893	2.50	4	619900	2684	Single Family Detached	2005	db-postgres	2015-07-28 03:05:00-07	2080 Dancer	Escondido	CA	92026	US
+508292	4.50	5	1875000	4653	Single Family Detached	2004	db-postgres	2015-07-14 11:35:19-07	811 Requeza	Encinitas	CA	92024	US
+511930	1.50	3	717000	1739	Single Family Detached	1960	db-postgres	2015-05-31 18:16:00-07	1294 Cynthia Lane	Carlsbad	CA	92008	US
+513150	4.50	5	859000	4084	Single Family Detached	2000	db-postgres	2015-08-15 11:35:50-07	2196 Pamplona Ct	Escondido	CA	92025	US
+516216	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+517664	3.50	6	940000	4169	Single Family Detached	2006	db-postgres	2015-08-20 21:36:00-07	410 Lemonwood	Fallbrook	CA	92028	US
+518388	3.50	4	811000	2710	Single Family Detached	2005	db-postgres	2015-04-09 16:40:00-07	1741 Star Crest Place	San Marcos	CA	92078	US
+522018	3.00	5	899900	3539	Single Family Detached	2006	db-postgres	2015-07-02 11:21:30-07	14978 Skyline Truck Trail	Jamul	CA	91935	US
+523616	3.00	5	579900	2408	Single Family Detached	2006	db-postgres	2015-07-05 11:34:02-07	1418 Ferrara Ct.	Escondido	CA	92025	US
+524243	4.50	5	1799000	4300	Single Family Detached	2008	db-postgres	2015-07-25 11:35:01-07	869 Brittany	Encinitas	CA	92024	US
+524435	2.00	3	420000	1682	Single Family Detached	2005	db-postgres	2015-07-22 05:45:00-07	929 Passion Place	Ramona	CA	92065	US
+529185	3.50	5	885000	4621	Single Family Detached	1985	db-postgres	2015-06-08 05:53:00-07	4715 Calle de la Vuelta	Fallbrook	CA	92028	US
+531371	3.50	4	1125000	3713	Single Family Detached	2006	db-postgres	2015-05-17 11:20:23-07	2441 Oak Canyon Place	Escondido	CA	92025	US
+531649	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+531743	3.50	6	669000	3161	Single Family Detached	2011	db-postgres	2015-08-28 17:24:00-07	1731 Los Senderos	Santee	CA	92071	US
+534402	3.00	6	949000	2650	Single Family Detached	1974	db-postgres	2015-07-30 00:37:00-07	1758 Cape May Place	Carlsbad	CA	92008	US
+534438	3.50	4	895000	3972	Single Family Detached	1989	db-postgres	2015-06-23 19:30:00-07	28496 Cerveza Court	Escondido	CA	92026	US
+534550	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+536994	2.50	4	1825000	2658	Single Family Detached	1980	db-postgres	2015-08-14 22:35:00-07	815 Cornish Drive	Encinitas	CA	92024	US
+537194	3.50	5	800000	3428	Single Family Detached	1977	db-postgres	2015-07-08 23:53:00-07	13828 Tam O Shanter Ct.	Poway	CA	92064	US
+537339	2.00	4	798000	2115	Single Family Detached	1971	db-postgres	2015-06-15 11:44:54-07	12428 Bodega Pl.	San Diego	CA	92128	US
+539093	2.00	4	609000	1935	Single Family Detached	1974	db-postgres	2015-07-31 11:41:41-07	12639 Kaitz	Poway	CA	92064	US
+539317	4.50	3	6150000	3900	Single Family Detached	2015	db-postgres	2015-07-22 11:46:21-07	2810 Hidden Valley Road	La Jolla	CA	92037	US
+540161	2.00	3	619900	1673	Single Family Detached	1963	db-postgres	2015-08-08 02:36:00-07	4322 Charing Place	San Diego	CA	92117	US
+541329	4.00	4	1995000	3096	Single Family Detached	2015	db-postgres	2015-03-27 09:44:00-07	3423 Bayonne Drive	San Diego	CA	92109	US
+541874	2.00	3	747000	1440	Single Family Detached	2006	db-postgres	2015-07-25 18:56:00-07	5145 35th Street	San Diego	CA	92116	US
+544966	2.50	4	515000	2012	Single Family Detached	1989	db-postgres	2015-08-18 11:54:22-07	1418 Eastview	Oceanside	CA	92056	US
+546156	1.00	2	527000	812	Single Family Detached	1923	db-postgres	2015-08-12 14:52:00-07	1620 32nd	San Diego	CA	92102	US
+546286	2.50	3	539000	1734	Single Family Detached	1987	db-postgres	2015-08-18 11:30:39-07	2426 Sawgrass St.	El Cajon	CA	92019	US
+546639	2.00	4	425000	1792	Single Family Detached	1944	db-postgres	2014-10-23 16:36:00-07	536 59th St.	San Diego	CA	92114	US
+546755	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+547207	2.00	3	429000	1472	Single Family Detached	1947	db-postgres	2015-09-06 11:53:23-07	552 Garrett Avenue	Chula Vista	CA	91910	US
+547238	2.00	3	439900	1562	Single Family Detached	1955	db-postgres	2015-08-03 20:56:00-07	1025 Guatay	Chula Vista	CA	91911	US
+547626	1.50	3	355000	1479	Single Family Detached	1964	db-postgres	2015-07-03 18:46:00-07	2152 Rising Glen Way	Paradise Hills	CA	92139	US
+547870	2.00	3	550000	1194	Single Family Detached	1950	db-postgres	2015-08-26 23:29:00-07	352 Bonito Ave	Imperial Beach	CA	91932	US
+548080	2.00	4	445000	1682	Single Family Detached	1953	db-postgres	2015-06-17 11:19:01-07	1340 Sheryl	Chula Vista	CA	91911	US
+552374	2.00	3	699000	1770	Single Family Detached	1978	db-postgres	2015-09-05 11:54:05-07	7607 Calle Madero	Carlsbad	CA	92009	US
+553849	2.00	3	2400000	1344	Single Family Detached	1948	db-postgres	2015-07-21 11:41:04-07	3909 Arroyo Sorrento	San Diego	CA	92130	US
+555137	2.00	3	455000	1408	Single Family Detached	1960	db-postgres	2015-09-05 11:56:00-07	9768 Domer Rd.	Santee	CA	92071	US
+555357	2.00	3	449000	1413	Single Family Detached	2014	db-postgres	2015-07-05 11:31:08-07	12507 Castle Court Drive	Lakeside	CA	92040	US
+555567	3.00	4	899000	2022	Single Family Detached	1953	db-postgres	2015-07-25 23:20:00-07	2220 Hartford St	San Diego	CA	92110	US
+556056	2.00	3	479000	1298	Single Family Detached	1952	db-postgres	2015-09-08 21:52:00-07	5702 58th Place	San Diego	CA	92115	US
+557907	1.00	2	310000	977	Single Family Detached	1942	db-postgres	2015-08-18 11:52:09-07	302 Date	Chula Vista	CA	91911	US
+559301	3.00	5	1020000	3756	Single Family Detached	2003	db-postgres	2015-05-13 20:39:00-07	2891 Toulouse Lane	Fallbrook	CA	92028	US
+565612	3.00	6	990000	n/a	Other	1959	db-postgres	2014-07-21 23:14:00-07	210-223 W 11TH AVENUE	Escondido	CA	92025	US
+565790	3.00	4	675000	n/a	Other	1933	db-postgres	2015-05-05 18:07:33-07	228 E Aviation Road	Fallbrook	CA	92028	US
+567656	1.00	2	559000	827	Other	1970	db-postgres	2015-07-22 11:45:47-07	757 Snapdragon	Encinitas	CA	92024	US
+573475	2.00	2	318000	1008	Single Family Attached	1992	db-postgres	2015-09-05 11:57:57-07	3525 Cameo Drive	Oceanside	CA	92056	US
+575319	2.00	3	1850000	1676	Townhouse	1973	db-postgres	2015-09-03 02:18:00-07	2034 Santa Fe Ave.	Del Mar	CA	92014	US
+579875	5.50	6	1799900	4419	Single Family Detached	1947	db-postgres	2015-08-29 11:55:50-07	1185 Tamarack Ave	Carlsbad	CA	92008	US
+611579	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+625860	2.00	4	359000	n/a	Other	1938	db-postgres	2015-07-10 11:23:48-07	3317-3319 Chamoune	San Diego	CA	92105	US
+650310	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+650635	2.50	3	1249000	1354	Single Family Attached	1997	db-postgres	2015-08-01 11:42:09-07	743 San Fernando	San Diego	CA	92109	US
+650668	2.00	2	1250000	1392	Single Family Attached	1966	db-postgres	2015-08-20 12:01:35-07	2922 Bayside Walk	San Diego	CA	92109	US
+654973	2.50	2	384900	1276	Townhouse	1975	db-postgres	2015-08-01 11:44:54-07	6395 Rancho Mission Rd	San Diego	CA	92108	US
+658171	2.50	3	549900	1848	Townhouse	1981	db-postgres	2015-08-14 01:09:00-07	6725 Fashion Hills Blvd	San Diego	CA	92111	US
+658710	3.00	4	635000	1771	Townhouse	1981	db-postgres	2015-06-18 21:36:00-07	6956 Camino Amero	San Diego	CA	92111	US
+658847	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+659911	5.00	4	899900	n/a	Other	1923	db-postgres	2015-07-17 16:02:38-07	4817 Hawley Blvd	San Diego	CA	92116	US
+689936	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+696297	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+699055	4.00	6	410000	n/a	Other	2009	db-postgres	2015-06-04 11:42:23-07	4042-4044 National Ave	San Diego	CA	92113	US
+704739	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+705790	1.50	2	338000	1024	Single Family Attached	1971	db-postgres	2015-08-29 11:54:28-07	460 Ridgeway	Spring Valley	CA	91977	US
+706443	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+716790	2.00	3	240000	1071	Single Family Attached	1976	db-postgres	2015-06-30 11:38:31-07	3670 Arey	San Diego	CA	92154	US
+717795	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+720291	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+722032	2.50	2	449000	1386	Single Family Attached	2006	db-postgres	2015-08-05 07:00:00-07	3526 Shoreline Bluff Lane	San Diego	CA	92110	US
+730604	3.50	3	1625000	2133	Single Family Attached	2000	db-postgres	2015-07-17 16:04:05-07	1122 1st	Coronado	CA	92118	US
+745133	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+750110	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+755926	1.00	2	184000	806	Single Family Attached	1985	db-postgres	2015-07-18 02:55:00-07	530 Calle Montecito	Oceanside	CA	92057	US
+761318	1.00	1	289000	704	Single Family Attached	1987	db-postgres	2015-08-29 11:54:28-07	7555 Charmant  Drive	San Diego	CA	92122	US
+786360	4.00	5	799000	3810	Single Family Detached	2015	db-postgres	2015-07-03 11:34:50-07	494 Sunrise Mountain Road	El Cajon	CA	92021	US
+786573	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+786598	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+786760	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+786838	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+786926	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+786927	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+787945	2.00	3	375000	n/a	Other	1913	db-postgres	2015-06-11 11:38:36-07	2480 - 2480 1/2 L Street	San Diego	CA	92102	US
+788144	0.00	n/a	n/a	n/a	n/a	n/a	db-postgres	n/a	n/a	n/a	n/a	n/a	n/a
+788399	3.00	5	385000	n/a	Other	1970	db-postgres	2014-10-23 23:55:00-07	8354-6 Adams St	Lemon Grove	CA	91945	US
+788948	2.00	3	124900	1450	Manufactured Home	2014	db-postgres	2015-03-13 11:34:20-07	1951 47th St.	San Diego	CA	92102	US
+789357	6.00	6	3495000	6710	Single Family Detached	2014	db-postgres	2015-03-03 00:08:00-08	14855 Sunset Ridge Court	Poway	CA	92064	US
+789509	1.00	3	995000	1046	Single Family Detached	1944	db-postgres	2015-04-03 17:39:00-07	911 3rd	Coronado	CA	92118	US
+789690	2.50	5	705000	3582	Single Family Detached	2015	db-postgres	2015-08-04 04:29:00-07	1259 Midway Dr	Alpine	CA	91901	US
+789811	3.00	5	600000	2000	Single Family Detached	1960	db-postgres	2015-06-03 11:21:37-07	37552 Montezuma Valley Rd	Ranchita	CA	92066	US
+789820	2.00	4	999000	1988	Single Family Detached	1915	db-postgres	2015-06-04 13:42:00-07	3221 Homer	San Diego	CA	92106	US
+790165	1.50	3	339000	1089	Single Family Detached	1995	db-postgres	2015-07-17 16:06:09-07	22167 Crestline Road	Palomar Mountain	CA	92060	US
+790170	2.00	3	595000	3871	Single Family Detached	1945	db-postgres	2015-07-17 21:57:00-07	4734 Luneta	Julian	CA	92036	US
+790198	3.00	4	800000	2184	Single Family Detached	1998	db-postgres	2015-07-31 19:33:00-07	12722 Cobblestone Creek	Poway	CA	92064	US
+790219	2.00	2	289500	1785	Manufactured Home	1988	db-postgres	2015-08-04 11:51:55-07	1487 Plymouth Street	Oceanside	CA	92057	US
+790240	2.00	4	429500	n/a	Other	1955	db-postgres	2015-08-08 11:30:45-07	7612-7614 CENTRAL AVE	Lemon Grove	CA	91945	US
+790300	2.50	4	2500000	3079	Single Family Detached	1913	db-postgres	2015-08-21 00:09:00-07	4220 Arden	San Diego	CA	92103	US

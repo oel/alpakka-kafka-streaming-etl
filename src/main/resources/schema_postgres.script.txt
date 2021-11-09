@@ -1,0 +1,32 @@
+# Creation of database `propertydb` and table `property_listing` in PostgreSQL using `psql`
+#
+$ psql -h localhost -U postgres
+CREATE ROLE pipeliner WITH createdb login ENCRYPTED PASSWORD 'mypassword';
+CREATE DATABASE propertydb WITH OWNER 'pipeliner' ENCODING 'utf8';
+\q
+
+$ psql -h localhost -U pipeliner -d propertydb
+CREATE TABLE property_listing (
+    property_id integer PRIMARY KEY,
+    bathrooms numeric,
+    bedrooms integer,
+    list_price double precision,
+    living_area integer,
+    property_type text,
+    year_built text,
+    data_source text,
+    last_updated timestamp with time zone,
+    street_address character varying(250),
+    city character varying(50),
+    state character varying(50),
+    zip character varying(10),
+    country character varying(3)
+);
+ALTER TABLE property_listing OWNER TO pipeliner;
+\q
+
+# Populate table `property_listing` with the provided sample property listings
+#
+$ cd {project-root}/src/main/resources/
+$ psql -h localhost -d propertydb -U pipeliner -c \
+  "\copy property_listing from './property_listing_db_postgres_500.tsv' with delimiter E'\t' null as 'n/a' csv header"

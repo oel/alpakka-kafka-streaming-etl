@@ -1,0 +1,501 @@
+property_id	bathrooms	bedrooms	list_price	living_area	property_type	year_built	data_source	last_updated	street_address	city	state	zip	country
+2561	2.00	3	439000	1500	Single Family Detached	1974	file-csv	2015-07-28 11:48:35-07	1354 Via Del Oro	Fallbrook	CA	92028	US
+4380	2.00	3	399000	1566	Single Family Detached	1998	file-csv	2015-08-04 18:13:37-07	9996 W Lilac	Escondido	CA	92026	US
+5302	2.00	3	429500	1176	Single Family Detached	1960	file-csv	2015-08-07 11:42:53-07	126 Cregar Street	Oceanside	CA	92054	US
+6473	2.00	3	329900	988	Single Family Detached	1963	file-csv	2015-07-21 14:32:00-07	4831 Sol Sitio	Oceanside	CA	92057	US
+8810	2.00	3	350000	1150	Single Family Detached	1963	file-csv	2015-08-30 15:32:00-07	124 Riviera Dr	Oceanside	CA	92054	US
+12204	3.00	4	475000	1913	Single Family Detached	1990	file-csv	2015-07-17 15:51:31-07	2112 Ramada	Oceanside	CA	92056	US
+14901	2.00	4	467500	1851	Single Family Detached	1975	file-csv	2015-09-04 21:39:00-07	764 Barsby	Vista	CA	92084	US
+16016	2.00	4	450000	1584	Single Family Detached	1971	file-csv	2015-08-25 11:57:37-07	1808 Calle Sinaloa	Vista	CA	92084	US
+16132	2.00	4	419900	1683	Single Family Detached	1982	file-csv	2015-07-23 22:16:00-07	639 Sabrina Way	Vista	CA	92084	US
+17695	3.00	4	789000	3156	Single Family Detached	1989	file-csv	2015-05-02 11:30:52-07	10430 Coyote Hill Glen	Escondido	CA	92026	US
+23677	2.50	4	559900	1871	Single Family Detached	1988	file-csv	2015-08-12 16:43:44-07	1188 Bridgehampton St	San Marcos	CA	92078	US
+23890	5.50	7	2199999	5586	Single Family Detached	1985	file-csv	2015-07-23 11:30:18-07	3251 PIRAGUA STREET	Carlsbad	CA	92009	US
+25530	2.00	2	469000	1360	Single Family Detached	1960	file-csv	2015-08-29 23:20:00-07	1080 Rock Springs Road	San Marcos	CA	92069	US
+26234	2.50	3	624500	2019	Single Family Detached	1966	file-csv	2015-08-28 21:37:00-07	410 Sheridan Ave	Escondido	CA	92026	US
+26887	2.00	3	524999	2163	Single Family Detached	1964	file-csv	2015-07-21 11:46:48-07	1047 La Moree Road	San Marcos	CA	92078	US
+27389	2.00	3	485000	1780	Single Family Detached	1978	file-csv	2015-08-11 22:33:00-07	1310 Loma de Paz	Escondido	CA	92027	US
+28447	3.00	3	495000	1735	Single Family Detached	1925	file-csv	2015-06-18 11:44:24-07	1305 S Juniper Street	Escondido	CA	92025	US
+30408	3.00	3	620000	2835	Single Family Detached	2003	file-csv	2015-06-26 08:00:00-07	941 Morro	Fallbrook	CA	92028	US
+30571	3.00	3	549000	2336	Single Family Detached	1990	file-csv	2015-07-31 21:55:00-07	748 Carnation Ln	Fallbrook	CA	92028	US
+30950	4.00	5	999000	3308	Single Family Detached	2008	file-csv	2015-08-16 08:12:00-07	1018 N Stage Coach Ln	Fallbrook	CA	92028	US
+31075	2.00	4	394900	1433	Single Family Detached	1960	file-csv	2015-08-07 02:37:00-07	1325 E Alvarado Street	Fallbrook	CA	92028	US
+31591	4.00	4	695000	3373	Single Family Detached	1985	file-csv	2015-08-27 07:01:00-07	2187 Mil Sorpresas Dr	Fallbrook	CA	92028	US
+32636	2.50	6	509000	2248	Single Family Detached	1970	file-csv	2015-07-31 14:22:00-07	1730 S Juniper	Escondido	CA	92025	US
+32998	2.00	3	200000	1252	Single Family Detached	1973	file-csv	2015-05-20 01:36:00-07	2458 Hummingbird Hill Lane	Fallbroook	CA	92028	US
+33439	3.50	4	975900	3791	Single Family Detached	1980	file-csv	2015-06-01 23:29:00-07	2411 Our Country Road	Escondido	CA	92029	US
+33564	3.50	5	824500	3720	Single Family Detached	1997	file-csv	2015-07-18 11:44:40-07	2991 Los Alisos Drive	Fallbrook	CA	92028	US
+33747	2.50	3	800000	3279	Single Family Detached	1992	file-csv	2014-08-08 01:37:00-07	1632 Colina Vista	Fallbrook	CA	92028	US
+33954	4.00	4	749000	2950	Single Family Detached	2009	file-csv	2015-04-25 11:24:28-07	3785 Wildflower Ln.	Fallbrook	CA	92028	US
+34254	4.00	5	948888	4460	Single Family Detached	2004	file-csv	2015-06-12 18:02:26-07	2609 Daisy Lane	Fallbrook	CA	92028	US
+34341	2.00	4	679000	2500	Single Family Detached	1986	file-csv	2015-03-09 11:22:18-07	1044 Ranger Rd	Fallbrook	CA	92028	US
+34361	4.00	6	1150000	4413	Single Family Detached	2005	file-csv	2015-07-08 18:45:00-07	650 Yucca Road	Fallbrook	CA	92028	US
+34605	2.50	4	785900	3798	Single Family Detached	1986	file-csv	2015-09-03 02:52:00-07	755 Willow Glen	Escondido	CA	92025	US
+35006	2.00	3	499000	2010	Manufactured Home	2009	file-csv	2015-06-17 11:26:51-07	27071 Chihuahua Valley Road	Warner Springs	CA	92086	US
+35201	5.00	4	1290000	6100	Single Family Detached	2008	file-csv	2015-06-01 09:17:11-07	413 Bonita Valle	Fallbrook	CA	92028	US
+35983	2.00	3	365000	1314	Single Family Detached	1970	file-csv	2015-08-14 17:01:00-07	4849 Stephanie	Oceanside	CA	92057	US
+41085	2.50	4	405000	2095	Single Family Detached	1979	file-csv	2015-07-23 11:30:52-07	8904 Nelson	Escondido	CA	92026	US
+42651	2.00	4	949900	2066	Single Family Detached	1986	file-csv	2015-09-03 01:53:00-07	1054 Monterey Vista Way	Encinitas	CA	92024	US
+43960	2.00	3	795000	1209	Single Family Detached	1961	file-csv	2015-07-02 11:31:04-07	981 Birmingham Dr.	Cardiff By The Sea	CA	92007	US
+44795	2.00	3	479000	1344	Single Family Detached	1961	file-csv	2015-08-11 11:44:17-07	2829 Turnbull	Oceanside	CA	92054	US
+47851	2.00	3	549900	1538	Single Family Detached	1959	file-csv	2015-08-21 15:38:00-07	533 Vine St	Oceanside	CA	92054	US
+52790	2.50	4	725000	2944	Single Family Detached	1996	file-csv	2015-08-18 11:28:15-07	1601 Trotting Horse Road	Oceanside	CA	92057	US
+53360	3.00	5	779000	3285	Single Family Detached	1992	file-csv	2015-08-12 11:38:55-07	5818 Ranch View Road	Oceanside	CA	92057	US
+53558	2.50	3	349900	1645	Single Family Detached	1986	file-csv	2015-09-02 06:44:00-07	916 Newport	Oceanside	CA	92057	US
+53758	2.00	3	699900	1779	Single Family Detached	1968	file-csv	2015-09-06 16:40:00-07	17055 Grandee Way	San Diego	CA	92128	US
+54294	2.00	3	400000	1134	Single Family Detached	1988	file-csv	2015-07-21 11:40:11-07	310 Keyport Street	Oceanside	CA	92057	US
+56514	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+56628	2.00	3	519000	1814	Single Family Detached	1971	file-csv	2015-08-29 18:43:00-07	12516 NACIDO DRIVE	San Diego	CA	92128	US
+56684	3.00	5	695000	2241	Single Family Detached	1969	file-csv	2015-08-05 07:21:00-07	12561 Cresta Place	San Diego	CA	92128	US
+56909	3.00	4	459000	1944	Single Family Detached	1987	file-csv	2015-08-29 11:53:52-07	888 Glenwood Drive	Oceanside	CA	92057	US
+57355	3.00	4	529000	2447	Single Family Detached	1989	file-csv	2015-06-09 02:19:00-07	5168 Summerhill	Oceanside	CA	92057	US
+59953	3.00	4	499900	2097	Single Family Detached	1980	file-csv	2014-06-30 10:09:46-07	18595 Starvation Mountain Road	Escondido	CA	92025	US
+59974	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+62976	2.00	4	260000	1614	Single Family Detached	1958	file-csv	2015-03-23 22:39:00-07	1231 Teelin Avenue	Vista	CA	92083	US
+63281	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+64473	2.50	4	470000	2027	Single Family Detached	1980	file-csv	2015-08-22 11:38:12-07	1458 Darwin Drive	Oceanside	CA	92056	US
+67931	2.00	3	416900	1200	Single Family Detached	1967	file-csv	2015-09-06 11:56:09-07	845 Grapevine Road	Vista	CA	92083	US
+69459	2.00	3	369000	1033	Single Family Detached	1962	file-csv	2015-07-09 00:32:00-07	808 Maryland	Vista	CA	92083	US
+70000	2.00	3	449000	1612	Single Family Detached	1978	file-csv	2015-08-26 11:36:31-07	760 Granada	Vista	CA	92083	US
+71985	2.00	3	458500	1581	Single Family Detached	1988	file-csv	2015-07-26 17:03:00-07	2865 Lehigh Court	Oceanside	CA	92056	US
+72009	3.00	5	644900	2318	Single Family Detached	1987	file-csv	2015-08-15 11:47:52-07	3393 Golfers	Oceanside	CA	92056	US
+72343	3.00	5	635000	2318	Single Family Detached	1988	file-csv	2015-07-19 11:47:40-07	3361 Par Drive	Oceanside	CA	92056	US
+74191	2.00	4	429000	1603	Single Family Detached	1980	file-csv	2015-07-23 23:28:00-07	336 Huff St	Vista	CA	92083	US
+74495	3.00	7	600000	2638	Single Family Detached	1966	file-csv	2015-09-06 11:37:22-07	3665 Catalina	Carlsbad	CA	92010	US
+75287	2.50	4	789900	2263	Single Family Detached	1984	file-csv	2015-08-29 21:42:00-07	2712 Waterbury Way	Carlsbad	CA	92010	US
+76454	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+82163	2.00	5	478900	1944	Single Family Detached	1963	file-csv	2015-08-13 11:50:57-07	1627 Manor Drive	Vista	CA	92084	US
+82937	2.50	3	2950000	2888	Single Family Detached	1951	file-csv	2015-05-08 22:24:00-07	1145 Crest Rd	Del Mar	CA	92014	US
+83038	2.50	4	1990000	3567	Single Family Detached	1978	file-csv	2015-07-07 11:27:30-07	13880 Crest	Del Mar	CA	92014	US
+83970	3.50	4	1775000	2737	Single Family Detached	1969	file-csv	2015-08-30 05:28:00-07	14249 Recuerdo Drive	Del Mar	CA	92014	US
+85688	2.00	3	649000	1768	Single Family Detached	1954	file-csv	2015-08-16 11:49:43-07	1072 Phillips St.	Vista	CA	92083	US
+87319	3.00	6	1369999	3600	Single Family Detached	1992	file-csv	2015-08-19 05:35:00-07	3854 Bluebird Canyon Court	Vista	CA	92084	US
+87921	2.50	4	1175000	2500	Single Family Detached	1961	file-csv	2015-07-14 11:22:12-07	656 Hillcrest	Vista	CA	92081	US
+87934	2.50	4	899000	4550	Single Family Detached	2000	file-csv	2015-08-20 11:41:28-07	220 Via Las Brisas	San Marcos	CA	92069	US
+89205	3.50	4	999900	3050	Single Family Detached	2000	file-csv	2015-06-16 11:22:52-07	2104 Buena Creek Road	Vista	CA	92084	US
+89580	3.00	5	599000	2466	Single Family Detached	1965	file-csv	2015-09-02 20:42:00-07	2244 Esplendido Ave	Vista	CA	92084	US
+93166	3.50	4	795000	3625	Single Family Detached	2006	file-csv	2015-04-23 11:20:32-07	28059 OAK RANCH ROAD	Escondido	CA	92026	US
+100084	1.00	2	439900	888	Single Family Detached	1971	file-csv	2015-07-26 11:30:23-07	9960 Via Monzon	San Diego	CA	92129	US
+100118	2.50	4	735000	1990	Single Family Detached	1975	file-csv	2015-08-23 11:58:04-07	12747 Cijon St	San Diego	CA	92129	US
+101063	2.00	3	737500	1580	Single Family Detached	1945	file-csv	2015-08-12 21:11:00-07	1726 Calavo Ct	Carlsbad	CA	92008	US
+111854	4.50	4	1350000	4152	Single Family Detached	2004	file-csv	2014-06-30 10:09:46-07	16262 Paragon Mesa Road	Poway	CA	92064	US
+114244	1.00	3	419900	919	Single Family Detached	1973	file-csv	2015-08-27 15:44:00-07	8953 Covina Street	San Diego	CA	92126	US
+114999	2.00	4	414000	1525	Single Family Detached	1977	file-csv	2015-08-06 11:37:09-07	3641 9th Street	San Marcoa	CA	92078	US
+115411	2.50	4	496000	2605	Single Family Detached	1990	file-csv	2015-09-02 11:45:43-07	2120 Opal Ridge	Vista	CA	92081	US
+115738	5.00	5	565000	1150	Single Family Detached	1958	file-csv	2015-07-10 11:38:47-07	426 Palm Road	San Marcos	CA	92069	US
+116102	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+117622	2.00	3	499900	1482	Single Family Detached	1993	file-csv	2015-08-05 23:20:00-07	1016 Honeysuckle Dr.	San Marcos	CA	92078	US
+118673	4.00	6	799000	3872	Single Family Detached	1988	file-csv	2015-05-28 11:36:24-07	496 Supreme Ct	San Marcos	CA	92078	US
+119536	3.50	5	900000	3040	Single Family Detached	1989	file-csv	2014-08-08 08:08:23-07	3107 La Costa Avenue	Carlsbad	CA	92009	US
+123628	2.00	3	499000	1461	Single Family Detached	1990	file-csv	2015-07-14 11:39:50-07	645 Crestwood Place	Escondido	CA	92026	US
+123929	3.00	4	949000	3070	Single Family Detached	1983	file-csv	2015-08-27 07:25:00-07	5027 Via Papel	San Diego	CA	92122	US
+124423	1.50	3	300000	1026	Single Family Detached	1960	file-csv	2015-07-23 11:30:20-07	823 Erica	Escondido	CA	92027	US
+125257	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+126283	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+127600	2.00	4	459900	1617	Single Family Detached	1895	file-csv	2015-08-05 23:40:00-07	1236 Sarahfaye Ct	Escondido	CA	92026	US
+129588	2.00	3	330000	1280	Single Family Detached	1909	file-csv	2015-08-14 23:55:00-07	1366 Wicker	Escondido	CA	92027	US
+129591	2.00	4	474900	1888	Single Family Detached	1989	file-csv	2015-09-07 11:34:16-07	1324 Wicker	Escondido	CA	92027	US
+133078	2.00	4	355000	1342	Single Family Detached	1973	file-csv	2015-08-27 11:39:15-07	610 Mclain Street	Escondido	CA	92027	US
+133094	0.00	5	375000	1280	Single Family Detached	1973	file-csv	2015-07-25 15:44:00-07	601 Paul	Escondido	CA	92027	US
+134078	2.50	4	449888	2241	Single Family Detached	1990	file-csv	2014-06-30 10:09:46-07	2784 Jed Road	Escondido	CA	92027	US
+134593	2.00	3	370000	1450	Single Family Detached	1971	file-csv	2015-08-01 19:34:00-07	2151 Ardath Ave	Escondido	CA	92027	US
+134688	2.00	3	369000	1296	Single Family Detached	1973	file-csv	2015-08-14 16:50:00-07	3018 Roseann	Escondido	CA	92027	US
+135484	2.00	4	599500	1726	Single Family Detached	1960	file-csv	2015-06-18 11:39:19-07	4681 Mount Frissell Drive	San Diego	CA	92117	US
+135720	3.00	5	699000	3172	Single Family Detached	1992	file-csv	2015-05-01 11:45:15-07	2674 Kauana Loa	Escondido	CA	92029	US
+136372	1.00	3	349000	984	Single Family Detached	1955	file-csv	2015-07-21 22:26:00-07	521 Chestnut	Escondido	CA	92025	US
+137232	2.00	3	545000	1363	Single Family Detached	1962	file-csv	2015-08-08 11:52:17-07	4417 Clayford Street	San Diego	CA	92117	US
+137550	2.00	3	550000	1586	Single Family Detached	1971	file-csv	2015-07-12 11:39:26-07	1722 Via De La Cuesta	Escondido	CA	92027	US
+138181	2.00	4	434500	1528	Single Family Detached	1957	file-csv	2015-08-26 23:07:00-07	1049 12th Ave	Escondido	CA	92025	US
+138197	2.50	3	485000	1800	Single Family Detached	1990	file-csv	2015-08-22 11:54:20-07	1144 Catspaw Pl	Escondido	CA	92029	US
+139634	2.00	3	589000	1406	Single Family Detached	1974	file-csv	2015-08-01 05:16:00-07	7525 Volclay Dr	San Diego	CA	92119	US
+140307	3.50	4	699000	2776	Single Family Detached	2006	file-csv	2015-08-22 11:50:44-07	1211 Valencia	Escondido	CA	92025	US
+140626	3.00	5	625000	1887	Single Family Detached	1972	file-csv	2015-07-21 00:43:00-07	5746 Tortuga Road	San Diego	CA	92124	US
+142944	2.50	3	800000	2450	Single Family Detached	2012	file-csv	2015-06-16 11:22:06-07	23352 Old Wagon	Valley Center	CA	92082	US
+148825	2.50	4	1475000	1942	Single Family Detached	1949	file-csv	2015-06-26 11:12:00-07	468 Puebla St	Encinitas	CA	92024	US
+149319	2.50	4	1395000	2074	Single Family Detached	1993	file-csv	2015-08-27 21:52:00-07	130 Marcheta	Encinitas	CA	92024	US
+151538	2.00	3	459000	1641	Single Family Detached	1954	file-csv	2015-08-20 12:00:09-07	9346 Riverview Dr.	Lakeside	CA	92040	US
+152112	3.00	3	974900	1663	Single Family Detached	1989	file-csv	2015-07-21 11:46:13-07	551 Gardena Court	Encinitas	CA	92024	US
+153366	2.00	3	795000	1633	Single Family Detached	1974	file-csv	2015-09-04 22:41:00-07	808 Doris Drive	Encinitas	CA	92024	US
+156709	2.00	3	340000	1280	Single Family Detached	1946	file-csv	2015-08-18 11:52:08-07	11971 Walnut Road	Lakeside	CA	92040	US
+159725	5.50	5	2795000	4965	Single Family Detached	2004	file-csv	2015-06-14 11:42:35-07	18534 Calle La Serra	Rancho Santa Fe	CA	92091	US
+160237	3.50	4	725000	3042	Single Family Detached	1991	file-csv	2015-09-02 11:45:51-07	9398 Marina Springs Lane	El Cajon	CA	92021	US
+162805	2.00	3	449999	1320	Single Family Detached	1992	file-csv	2015-08-04 11:42:49-07	111 La Cresta Trail	El Cajon	CA	92019	US
+163314	2.00	3	420000	1781	Manufactured Home	1990	file-csv	2015-06-04 06:06:00-07	711 Rosalie Way	El Cajon	CA	92019	US
+164476	2.50	4	1100000	3911	Single Family Detached	1987	file-csv	2015-08-11 20:17:00-07	1168 Sierra Linda Drive	Escondido	CA	92025	US
+169929	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+169972	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+170077	2.00	3	599900	1729	Single Family Detached	1986	file-csv	2015-07-26 11:33:11-07	16055 Avenida Aveiro	San Diego	CA	92128	US
+170918	3.00	4	929000	2758	Single Family Detached	1973	file-csv	2015-06-10 01:56:00-07	12944 Avenida La Valencia	Poway	CA	92064	US
+171258	2.00	3	839000	2386	Single Family Detached	1969	file-csv	2015-05-22 18:00:00-07	16840 Orchard Bend	Poway	CA	92064	US
+171608	2.00	4	800000	3037	Single Family Detached	1979	file-csv	2015-06-09 11:46:48-07	14935 Highland Valley Road	Escondido	CA	92025	US
+171943	3.00	4	899000	3770	Single Family Detached	1977	file-csv	2015-05-16 03:43:00-07	15434 Sky High Road	Escondido	CA	92025	US
+172882	3.00	5	699000	3101	Single Family Detached	1966	file-csv	2015-09-05 22:46:00-07	13822 Northcrest Lane	Poway	CA	92064	US
+174612	2.00	4	609000	1466	Single Family Detached	1969	file-csv	2015-08-22 11:58:36-07	6503 Salizar St.	San Diego	CA	92111	US
+176220	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+181021	2.00	3	477900	2439	Single Family Detached	1979	file-csv	2015-06-30 04:49:00-07	2913 Lakeview Drive	Julian	CA	92036	US
+183207	2.00	4	419000	1650	Single Family Detached	1960	file-csv	2015-08-11 04:29:00-07	2405 Casement St	San Diego	CA	92123	US
+183463	1.00	2	575000	666	Single Family Detached	1941	file-csv	2015-07-28 11:53:57-07	1515 Monitor Rd	San Diego	CA	92110	US
+185310	3.50	5	2200000	3120	Single Family Detached	2007	file-csv	2015-08-23 05:51:00-07	13884 Recuerdo	Del Mar	CA	92014	US
+185584	3.00	4	5000000	1946	Single Family Detached	1968	file-csv	2015-01-22 01:45:00-08	12996 Via Latina	Del Mar	CA	92014	US
+186333	2.00	3	1199000	2331	Single Family Detached	1932	file-csv	2015-09-01 20:30:00-07	5017 Kensington Dr	San Diego	CA	92116	US
+186648	2.00	3	1050000	1880	Single Family Detached	1971	file-csv	2015-04-23 11:33:38-07	3846 Avenida Feliz	Rancho Santa Fe	CA	92091	US
+187528	2.50	4	1225000	2605	Single Family Detached	1984	file-csv	2015-07-24 11:37:43-07	3740 Overpark Rd.	San Diego	CA	92130	US
+192706	3.00	5	1275000	2904	Single Family Detached	1991	file-csv	2015-09-06 11:37:22-07	4594 Campobello Street	San Diego	CA	92130	US
+195199	2.00	3	474900	1390	Single Family Detached	1972	file-csv	2015-08-16 16:34:00-07	7535 Aegean Court	San Diego	CA	92126	US
+200082	2.00	3	497000	1308	Single Family Detached	1974	file-csv	2015-08-19 17:06:00-07	10745 Fenwick Rd	San Diego	CA	92126	US
+200596	2.50	4	649900	2371	Single Family Detached	1981	file-csv	2015-08-14 23:38:00-07	7905 Gold Coast	San Diego	CA	92126	US
+205539	2.00	3	799000	1468	Single Family Detached	1939	file-csv	2015-08-22 01:49:47-07	2631 Montclair Street	San Diego	CA	92104	US
+207203	2.50	4	769995	2350	Single Family Detached	1990	file-csv	2015-08-31 17:58:00-07	11671 Boulton Ave	San Diego	CA	92128	US
+207328	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+208304	3.00	4	899000	2507	Single Family Detached	1971	file-csv	2015-08-01 11:40:21-07	14009 Eastern	Poway	CA	92064	US
+208830	2.00	4	479999	1336	Single Family Detached	1960	file-csv	2015-08-15 11:45:45-07	14131 Halper Road	Poway	CA	92064	US
+208837	2.00	3	535000	1193	Single Family Detached	1960	file-csv	2015-07-24 11:48:25-07	14051 Halper Road	Poway	CA	92064	US
+209461	2.00	5	549900	1443	Single Family Detached	1962	file-csv	2015-06-28 08:52:00-07	6424 LAKE MERE	San Diego	CA	92119	US
+209668	3.00	5	695000	2085	Single Family Detached	1971	file-csv	2015-08-21 11:51:17-07	13258 Lingre Avenue	Poway	CA	92064	US
+210184	2.00	3	769000	1807	Single Family Detached	1985	file-csv	2015-07-30 00:37:00-07	13121 Woodmont St.	Poway	CA	92064	US
+210738	3.00	5	575000	2133	Single Family Detached	1968	file-csv	2015-08-30 00:14:00-07	8672 Warmwell Dr	San Diego	CA	92119	US
+212389	3.00	6	699000	2518	Single Family Detached	1977	file-csv	2015-08-29 11:58:08-07	12828 War Horse	San Diego	CA	92129	US
+212415	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+213978	2.50	4	739000	2438	Single Family Detached	1982	file-csv	2015-07-28 21:41:00-07	12880 Orangeburg Avenue	San Diego	CA	92129	US
+214121	2.00	4	659000	2042	Single Family Detached	1966	file-csv	2015-08-12 23:17:00-07	5893 Eldergardens St.	San Diego	CA	92120	US
+215818	2.00	4	385000	2115	Single Family Detached	1951	file-csv	2015-08-22 11:57:51-07	6905 Wisconsin Ave.	La Mesa	CA	91942	US
+216542	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+218921	2.00	4	549000	1769	Single Family Detached	1970	file-csv	2015-08-28 11:53:44-07	5483 New Mills Road	San Diego	CA	92115	US
+220591	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+222604	2.50	4	774500	2500	Single Family Detached	1980	file-csv	2015-07-08 23:20:00-07	10435 Brooktree Terrace	San Diego	CA	92131	US
+227466	4.50	4	1295000	3891	Single Family Detached	2006	file-csv	2015-08-14 00:34:00-07	15831 Crystal View Lane	Poway	CA	92064	US
+227998	1.00	4	449900	1378	Single Family Detached	1961	file-csv	2015-07-25 04:25:00-07	14569 Kennebunk St	Poway	CA	92064	US
+228524	2.00	4	499000	1821	Single Family Detached	1958	file-csv	2015-08-21 11:52:28-07	3898 Shirlene PL	La Mesa	CA	91941	US
+228530	2.00	4	479000	1344	Single Family Detached	1958	file-csv	2015-07-24 07:09:00-07	3850 Shirlene Place	La Mesa	CA	91941	US
+229341	3.50	4	969000	3380	Single Family Detached	2005	file-csv	2015-07-24 22:42:00-07	15823 Quiet Valley Lane	Poway	CA	92064	US
+229591	2.00	3	519000	2053	Single Family Detached	1991	file-csv	2015-08-15 11:44:13-07	12911 Old Barona Rd	Lakeside	CA	92040	US
+231474	2.00	3	499000	1266	Single Family Detached	1984	file-csv	2015-07-18 11:31:15-07	10107 Knight Dr.	San Diego	CA	92126	US
+231568	1.00	2	340000	768	Single Family Detached	1949	file-csv	2015-09-06 18:35:00-07	3035 55th Street	San Diego	CA	92105	US
+233619	2.50	3	650000	2307	Single Family Detached	1970	file-csv	2015-08-29 23:27:00-07	1532 Swallow	El Cajon	CA	92020	US
+233968	1.00	2	349000	948	Single Family Detached	1959	file-csv	2015-08-07 11:44:22-07	1436 N Mollison	El Cajon	CA	92021	US
+234115	2.00	3	1484000	2086	Single Family Detached	1961	file-csv	2015-05-20 00:36:00-07	8356 Sugarman	La Jolla	CA	92037	US
+236747	2.00	3	645000	1254	Single Family Detached	1971	file-csv	2015-06-27 11:37:26-07	4692 Robbins Street	San Diego	CA	92122	US
+238252	2.00	3	449000	1773	Single Family Detached	1956	file-csv	2015-07-30 02:46:00-07	406 Ballard St.	El Cajon	CA	92019	US
+238849	3.50	3	1549000	1992	Single Family Attached	2015	file-csv	2015-07-03 11:37:08-07	7452 Herschel Ave	La Jolla	CA	92037	US
+240221	6.00	6	8500000	6100	Single Family Detached	1982	file-csv	2015-05-13 11:29:52-07	1914 Via Casa Alta	La Jolla	CA	92037	US
+240849	5.50	5	2495000	3819	Single Family Detached	1975	file-csv	2015-08-05 11:34:24-07	7790 Senn Way	La Jolla	CA	92037	US
+241485	2.00	3	534500	1560	Single Family Detached	1958	file-csv	2015-08-29 21:49:00-07	4541 Conrad Ave.	San Diego	CA	92117	US
+242096	2.00	5	599900	2010	Single Family Detached	1958	file-csv	2015-08-22 11:37:06-07	4871 Conrad Ave	San Diego	CA	92117	US
+242800	3.50	4	15650000	6163	Single Family Detached	1993	file-csv	2015-07-22 02:22:00-07	6106 Camino De La Costa	La Jolla	CA	92037	US
+244593	2.00	3	419000	1323	Single Family Detached	1942	file-csv	2015-08-01 14:30:00-07	4410 Avocado Blvd	La Mesa	CA	91941	US
+244959	4.50	4	3150000	3644	Single Family Detached	1974	file-csv	2015-08-11 00:05:00-07	1721 Calle De Cinco	La Jolla	CA	92037	US
+249914	1.00	3	399000	1014	Single Family Detached	1962	file-csv	2015-08-13 11:33:36-07	5121 Bellvale Ave	San Diego	CA	92117	US
+252362	2.00	4	653000	1940	Single Family Detached	1972	file-csv	2015-05-08 07:07:00-07	6818 El Banquero Place	San Diego	CA	92119	US
+260541	3.00	5	599000	1770	Single Family Detached	1984	file-csv	2015-08-20 11:52:22-07	1879 Donahue	El Cajon	CA	92019	US
+262697	2.00	4	499900	1407	Single Family Detached	1970	file-csv	2015-08-07 11:39:37-07	10261 Santana	Santee	CA	92071	US
+262894	2.00	3	450000	1428	Single Family Detached	1970	file-csv	2015-07-25 11:52:34-07	10372 Woodrose	Santee	CA	92071	US
+265841	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+272748	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+274734	2.00	4	437500	1530	Single Family Detached	1973	file-csv	2015-08-13 11:49:15-07	13643 Avenida Del Charro	El Cajon	CA	92021	US
+277077	3.00	4	615000	2182	Single Family Detached	1999	file-csv	2015-07-14 11:46:46-07	8326 Marbrook	El Cajon	CA	92021	US
+278009	2.00	4	549900	1976	Single Family Detached	1980	file-csv	2015-09-07 11:54:07-07	2730 Eltinge	Alpine	CA	91901	US
+278044	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+278785	3.00	4	899000	3197	Single Family Detached	1999	file-csv	2015-07-07 23:37:00-07	1678 La Force Rd	Alpine	CA	91901	US
+279501	5.50	5	675000	3479	Single Family Detached	1960	file-csv	2015-09-05 07:56:00-07	1954 Lilac Lane	Alpine	CA	91901	US
+282806	4.00	4	1450000	2721	Single Family Detached	1945	file-csv	2015-07-08 16:27:00-07	1312 Chalcedony St	San Diego	CA	92109	US
+284086	2.00	3	1039900	1836	Single Family Detached	1968	file-csv	2015-07-21 18:02:00-07	5350 Westknoll Lane	San Diego	CA	92109	US
+284891	2.00	5	330000	1288	Single Family Detached	1950	file-csv	2015-09-03 15:16:54-07	5143 Trinidad	San Diego	CA	92114	US
+285720	2.00	3	549888	1100	Single Family Detached	1960	file-csv	2015-07-03 11:19:47-07	3511 Mt. Alvarez Ave.	San Diego	CA	92111	US
+290057	2.00	3	950000	1358	Single Family Detached	1942	file-csv	2015-08-20 11:41:25-07	4032 Riviera Dr.	San Diego	CA	92109	US
+290178	1.00	4	385000	1557	Single Family Detached	1941	file-csv	2015-08-22 11:52:57-07	420 E 2nd St	National City	CA	91950	US
+292790	2.50	4	1300000	1826	Single Family Detached	1961	file-csv	2015-08-11 00:34:00-07	3226 Lloyd Street	San Diego	CA	92117	US
+294447	2.00	4	589900	1455	Single Family Detached	1958	file-csv	2015-08-05 19:21:00-07	3257 Mobley Street	San Diego	CA	92123	US
+295800	1.00	2	398900	1245	Single Family Detached	1951	file-csv	2015-08-14 02:38:00-07	506 Patricia	Chula Vista	CA	91910	US
+298316	2.00	3	750000	1649	Single Family Detached	1950	file-csv	2015-06-21 11:44:20-07	4725 Milton St	San Diego	CA	92110	US
+299218	3.00	7	525000	2436	Single Family Detached	1956	file-csv	2015-08-26 11:51:44-07	613 Corte Maria Ave	Chula Vista	CA	91910	US
+299354	2.00	3	734000	1740	Single Family Detached	1956	file-csv	2015-08-25 18:42:17-07	2394 Cowley	San Diego	CA	92110	US
+306037	1.00	3	675000	1383	Single Family Detached	1970	file-csv	2015-08-03 20:42:00-07	2902 Poinsettia Drive	San Diego	CA	92106	US
+307314	2.00	3	429000	1232	Single Family Detached	1958	file-csv	2015-08-29 17:47:00-07	9020 Frederick St	Spring Valley	CA	91977	US
+310068	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+312779	3.00	4	1419000	2248	Single Family Detached	1950	file-csv	2015-08-11 23:10:00-07	4385 NIAGARA	San Diego	CA	92107	US
+313838	4.50	6	949900	3601	Single Family Detached	1987	file-csv	2015-08-19 11:52:04-07	375 Surrey	Bonita	CA	91902	US
+314888	2.00	3	875000	1456	Single Family Detached	1950	file-csv	2015-06-24 11:19:30-07	3427 Voltaire Street	San Diego	CA	92106	US
+314907	2.00	3	835000	1544	Single Family Detached	1940	file-csv	2015-07-31 05:42:00-07	3337 Voltaire	San Diego	CA	92106	US
+315485	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+315834	2.00	3	475000	1197	Single Family Detached	1974	file-csv	2015-09-07 11:47:55-07	974 Eton	Chula Vista	CA	91913	US
+316197	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+317228	2.00	3	789000	1400	Single Family Detached	1971	file-csv	2015-08-28 05:38:00-07	3744 Albatross St.	San Diego	CA	92103	US
+317320	2.00	3	797000	1417	Single Family Detached	1913	file-csv	2015-05-08 23:10:00-07	1032 Pennsylvania	Hillcrest	CA	92103	US
+322980	2.00	3	398900	1128	Single Family Detached	1965	file-csv	2015-08-12 11:40:13-07	1420 Nacion Ave.	Chula Vista	CA	91911	US
+324987	2.00	3	399000	1062	Single Family Detached	1971	file-csv	2015-08-11 11:44:50-07	7855 Whelan Drive	San Diego	CA	92119	US
+326003	2.50	5	570000	2704	Single Family Detached	1973	file-csv	2015-06-22 07:59:00-07	1663 Malta Avenue	Chula Vista	CA	91911	US
+328941	2.00	3	529000	1778	Single Family Detached	1952	file-csv	2015-08-20 11:39:17-07	6460 Cleo Street	San Diego	CA	92115	US
+330164	2.00	5	388000	1613	Single Family Detached	1968	file-csv	2015-06-19 05:06:00-07	3942 Coldwell Lane	San Diego	CA	92154	US
+331042	4.00	5	1790000	3991	Single Family Detached	1975	file-csv	2015-07-22 07:46:00-07	4264 Middlesex Drive	San Diego	CA	92116	US
+333592	1.00	2	399000	1045	Single Family Detached	1965	file-csv	2015-08-13 11:51:12-07	1115 Emory	Imperial Beach	CA	91932	US
+334326	2.00	3	439000	950	Single Family Detached	1945	file-csv	2015-07-28 04:46:00-07	1162 15th Street	Imperial Beach	CA	91932	US
+334685	3.00	3	535000	1422	Single Family Detached	1953	file-csv	2015-08-27 11:36:40-07	4602 SEMINOLE DR	San Diego	CA	92115	US
+334708	1.50	3	425000	1329	Single Family Detached	1954	file-csv	2015-09-04 19:43:00-07	4576 Virginia Ave	San Diego	CA	92115	US
+335881	2.00	3	452500	1288	Single Family Detached	1946	file-csv	2015-09-02 11:33:35-07	4748 71st Steet	La Mesa	CA	91942	US
+336137	1.00	2	390000	784	Single Family Detached	1947	file-csv	2015-08-29 11:37:33-07	4624 Parks Ave	San Diego	CA	91942	US
+336520	1.00	2	435000	956	Single Family Detached	1946	file-csv	2015-09-06 11:54:16-07	7560 Sturgess	La Mesa	CA	91941	US
+342357	1.00	2	375000	778	Single Family Detached	1945	file-csv	2015-08-21 11:52:28-07	4151 Lois St	La Mesa	CA	91941	US
+342497	1.00	3	300000	1152	Single Family Detached	1953	file-csv	2015-08-26 08:06:00-07	3967 Massachusetts Ave	La Mesa	CA	91941	US
+343848	1.00	3	369900	871	Single Family Detached	1950	file-csv	2015-08-20 11:54:24-07	3419 45th	San Diego	CA	92105	US
+347043	3.00	4	420000	1687	Single Family Detached	1953	file-csv	2015-08-03 11:40:41-07	3612 Nassau	San Diego	CA	92115	US
+348123	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+351175	2.00	4	320000	1362	Single Family Detached	1956	file-csv	2015-07-12 19:38:00-07	660 Spokane Way	El Cajaon	CA	92020	US
+351593	2.00	2	319000	851	Single Family Detached	1983	file-csv	2015-07-11 11:45:43-07	1107 Marline	El Cajon	CA	92021	US
+355071	2.50	4	410000	2178	Single Family Detached	1965	file-csv	2015-08-07 11:31:57-07	9495 Loren Dr.	La Mesa	CA	91941	US
+355396	2.00	3	369900	1094	Single Family Detached	1954	file-csv	2015-08-13 11:48:47-07	473 Manor	El Cajon	CA	92020	US
+356460	1.00	2	300000	1068	Single Family Detached	1919	file-csv	2015-08-14 22:10:00-07	322 Claydelle Avenue	El Cajon	CA	92020	US
+358614	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+358759	2.00	3	295000	1438	Single Family Detached	1951	file-csv	2015-07-21 05:28:00-07	181 Minnesota	El Cajon	CA	92020	US
+360000	3.00	4	449000	1952	Single Family Detached	1959	file-csv	2015-08-14 11:34:52-07	423 Raymond St	El Cajon	CA	92020	US
+360122	2.50	3	599000	2405	Single Family Detached	1945	file-csv	2015-07-26 11:30:34-07	1125 Random	El Cajon	CA	92020	US
+361020	3.00	3	775000	2448	Single Family Detached	1996	file-csv	2015-07-17 15:59:26-07	8704 Mariposa Street	La Mesa	CA	91941	US
+365004	2.00	3	545000	2143	Single Family Detached	1965	file-csv	2015-08-18 11:46:29-07	8950 MARIPOSA STREET	La Mesa	CA	91941	US
+368378	2.00	3	439900	1794	Single Family Detached	1959	file-csv	2015-09-04 22:12:00-07	2980 Crane	Lemon Grove	CA	91945	US
+369284	2.50	4	565000	2429	Single Family Detached	1979	file-csv	2015-07-26 15:27:00-07	9713 KENORA WOODS LN.	Spring Valley	CA	91977	US
+369833	2.00	3	470000	1729	Single Family Detached	1987	file-csv	2015-08-04 11:44:47-07	9591 Oakfield	Spring Valley	CA	91977	US
+371907	1.50	3	375000	1132	Single Family Detached	1955	file-csv	2015-08-29 11:50:13-07	1306 Clarke Dr.	El Cajon	CA	92021	US
+373013	2.50	3	499900	1942	Single Family Detached	1957	file-csv	2015-07-22 16:26:00-07	180 Sierra Vista Dr	El Cajon	CA	92021	US
+375676	4.00	5	989900	4642	Single Family Detached	1986	file-csv	2015-07-22 17:51:00-07	2467 Elevado Road	Vista	CA	92084	US
+376510	3.00	4	589000	2444	Single Family Detached	1977	file-csv	2015-08-12 11:43:39-07	1371 TIMBERPOND DR	San Diego	CA	92019	US
+376753	2.00	3	499900	2398	Single Family Detached	1978	file-csv	2015-08-12 11:29:02-07	2537 Pence Drive	El Cajon	CA	92019	US
+376878	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+377557	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+381268	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+381674	3.00	4	969000	2210	Single Family Detached	1977	file-csv	2015-08-25 05:48:32-07	3340 Oliphant	San Diego	CA	92106	US
+387934	3.00	4	1650000	1772	Single Family Detached	1889	file-csv	2015-06-24 11:29:31-07	823 H Avenue	Coronado	CA	92118	US
+389132	1.00	3	220000	1005	Single Family Detached	1908	file-csv	2015-08-15 11:46:03-07	2196 Ocean view Blvd	San Diego	CA	92113	US
+389932	1.00	3	499000	1104	Single Family Detached	1935	file-csv	2014-07-02 04:45:00-07	2878 Fir	San Diego	CA	92102	US
+390752	3.50	4	995000	n/a	Other	1913	file-csv	2015-05-02 11:39:56-07	1028 Edgemont Place	San Diego	CA	92102	US
+396856	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+398178	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+398464	2.00	3	359900	1146	Single Family Detached	1957	file-csv	2015-08-29 11:51:12-07	5605 OLVERA	San Diego	CA	92114	US
+400424	2.00	3	330000	796	Single Family Detached	1945	file-csv	2015-08-05 23:40:00-07	1118 S 37Th Street	San Diego	CA	92113	US
+400882	1.00	2	269000	864	Single Family Detached	1925	file-csv	2015-09-06 11:51:18-07	3817 Birch St San Diego, CA 92113	San Diego	CA	92113	US
+403529	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+403984	3.00	5	409000	2050	Single Family Detached	1949	file-csv	2015-07-31 11:48:18-07	1440 E 4Th st	National City	CA	91950	US
+404480	1.50	3	395000	1129	Single Family Detached	1955	file-csv	2015-07-11 11:42:10-07	1825 E 11th	National City	CA	91950	US
+404487	2.00	3	379000	1575	Single Family Detached	1957	file-csv	2015-07-15 15:51:00-07	1640 E 11th	National City	CA	91950	US
+407312	5.00	5	1299900	4400	Single Family Detached	1956	file-csv	2015-08-26 11:50:20-07	43 Corte Maria	Chula Vista	CA	91910	US
+408463	2.00	3	530000	1601	Single Family Detached	1956	file-csv	2015-08-13 23:36:00-07	456 Hilltop Drive	Chula Vista	CA	91910	US
+408487	1.00	2	350000	804	Single Family Detached	1950	file-csv	2015-07-22 08:57:00-07	565 2nd	Chula Vista	CA	91910	US
+408653	3.00	3	439000	1842	Single Family Detached	1956	file-csv	2015-07-17 16:04:22-07	436 Vista Way	Chula Vista	CA	91910	US
+408742	2.00	3	395000	1242	Single Family Detached	1913	file-csv	2015-08-31 11:49:39-07	175 Madrona	Chula Vista	CA	91910	US
+409709	2.00	6	469000	2262	Single Family Detached	1952	file-csv	2014-12-23 16:02:00-08	860 Oaklawn Ave.	Chula Vista	CA	91911	US
+412727	2.00	3	375000	1415	Single Family Detached	1955	file-csv	2015-07-21 19:51:00-07	925 Helix Ave	Chula Vista	CA	91910	US
+412793	2.00	3	419900	1050	Single Family Detached	1955	file-csv	2015-07-24 11:48:52-07	1016 Agua Tibia	Chula Vista	CA	91911	US
+413939	2.00	3	220000	1400	Single Family Detached	1948	file-csv	2015-07-17 16:00:34-07	1937 Eldora Street	Lemon Grove	CA	91945	US
+414004	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+414062	2.00	4	429900	1525	Single Family Detached	1960	file-csv	2015-09-07 07:09:00-07	1524 El Prado Ave	Lemon Grove	CA	91945	US
+414269	2.00	3	379000	1071	Single Family Detached	1964	file-csv	2015-06-16 11:35:30-07	1627 DARTMOOR	Lemon Grove	CA	91945	US
+414415	2.00	4	389900	1299	Single Family Detached	1965	file-csv	2015-08-02 01:01:00-07	1205 Armacost Road	San Diego	CA	92114	US
+415301	2.50	4	509000	2450	Single Family Detached	2003	file-csv	2015-07-06 19:48:00-07	4512 Arbor Glen	Oceanside	CA	92057	US
+420072	2.00	3	429000	1347	Single Family Detached	1961	file-csv	2015-08-05 05:22:00-07	358 Dale Grove	San Diego	CA	92114	US
+420900	3.00	4	400000	1804	Single Family Detached	1991	file-csv	2015-07-17 16:01:24-07	7569 Woodbine Way	San Diego	CA	92114	US
+423340	2.00	3	385000	1170	Single Family Detached	1967	file-csv	2015-07-13 11:37:30-07	113 Royal Oak Dr	San Diego	CA	92114	US
+425198	4.00	6	2500000	7784	Single Family Detached	2005	file-csv	2015-07-17 15:57:15-07	7337 San Miguel Road	Bonita	CA	91902	US
+426774	1.00	3	335000	961	Single Family Detached	1947	file-csv	2015-08-19 21:18:00-07	5865 Alleghany Street	San Diego	CA	92139	US
+429189	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+438023	3.00	3	589500	2224	Single Family Detached	1985	file-csv	2015-05-11 11:40:34-07	17085 Skyline Truck Trail	Jamul	CA	91935	US
+438401	5.50	5	589000	4239	Single Family Detached	2009	file-csv	2015-08-19 11:49:44-07	19675 Deerhorn Valley Road	Jamul	CA	91935	US
+441468	2.00	4	439900	1651	Single Family Detached	1960	file-csv	2015-07-17 17:00:00-07	171 E Oneida St	Chula Vista	CA	91911	US
+442004	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+444172	2.00	3	438888	1576	Single Family Detached	1965	file-csv	2015-07-24 06:48:00-07	1590 Malta Ave	Chula Vista	CA	91911	US
+445207	2.50	3	675000	1700	Single Family Detached	1959	file-csv	2015-07-03 18:03:00-07	625 THORN	Imperial Beach	CA	91932	US
+446242	1.00	2	245000	680	Single Family Detached	1925	file-csv	2015-08-01 21:59:00-07	2252 Citrus	San Diego	CA	92154	US
+448404	3.00	4	1495000	3195	Single Family Detached	1949	file-csv	2015-04-25 11:21:42-07	2045 Green Canyon Rd	Fallbrook	CA	92028	US
+451147	2.00	2	610000	1966	Single Family Detached	1985	file-csv	2015-07-02 18:35:00-07	520 Grove	Imperial Beach	CA	91932	US
+454126	2.00	5	375000	1604	Single Family Detached	1985	file-csv	2015-07-08 11:42:29-07	1939 Valance Street	San Diego	CA	92154	US
+454892	2.00	3	449000	1593	Single Family Detached	1968	file-csv	2015-09-05 11:38:09-07	630 Melrose	Chula Vista	CA	91910	US
+454985	2.00	3	449900	1493	Single Family Detached	1960	file-csv	2015-09-03 15:16:54-07	674 Myra Ave	Chula Vista	CA	91910	US
+455673	2.00	3	450000	1219	Single Family Detached	1960	file-csv	2015-07-30 00:37:00-07	214 Inkopah	Chula Vista	CA	91911	US
+457450	2.00	5	489900	1699	Single Family Attached	1979	file-csv	2015-09-03 17:40:00-07	787 Sesame St.	Chula Vista	CA	91910	US
+457645	2.50	4	600000	2137	Single Family Detached	1981	file-csv	2015-05-01 11:43:29-07	978 Paseo Del Paso	Chula Vista	CA	91910	US
+462619	2.50	4	515000	2231	Single Family Detached	2000	file-csv	2015-08-28 17:17:00-07	4836 Ebbtide Way	San Diego	CA	92154	US
+462841	3.00	5	599000	3486	Single Family Detached	1991	file-csv	2015-03-14 11:34:02-07	32066 Highway 94	Campo	CA	91906	US
+463021	1.00	6	189900	1765	Single Family Detached	1925	file-csv	2015-06-04 11:32:06-07	1292 DODD LANE	Campo	CA	91906	US
+466702	2.50	4	659000	2021	Single Family Detached	1967	file-csv	2015-08-15 11:36:45-07	5090 Park West	San Diego	CA	92117	US
+466913	2.00	4	519900	1242	Single Family Detached	1956	file-csv	2015-08-19 19:07:00-07	5517 Waring Rd.	San Diego	CA	92120	US
+466987	2.00	3	519900	1705	Single Family Detached	1957	file-csv	2015-07-29 11:38:18-07	5666 Barclay	San Diego	CA	92120	US
+472535	1.50	3	419000	1246	Single Family Detached	1971	file-csv	2015-08-29 11:56:50-07	406 Garey Drive	Vista	CA	92084	US
+474593	5.50	4	1695000	4997	Single Family Detached	2005	file-csv	2015-07-22 20:40:00-07	2644 Mary Lane Place	Escondido	CA	92025	US
+477301	3.50	5	825000	4122	Single Family Detached	2001	file-csv	2015-02-20 11:32:22-08	1327 Cresta Loma Drive	Fallbrook	CA	92028	US
+477457	3.50	4	874000	4122	Single Family Detached	2002	file-csv	2015-06-13 00:38:00-07	2815 Montecito Dr	Falbrook	CA	92078	US
+486478	3.50	4	1500000	4855	Single Family Detached	1992	file-csv	2015-09-02 14:57:00-07	2043 Alga	Carlsbad	CA	92009	US
+490297	2.00	4	539000	1352	Single Family Detached	1970	file-csv	2015-08-20 11:40:26-07	13531 Orange Blossom Lane	Poway	CA	92064	US
+492066	2.00	3	245000	1144	Single Family Detached	1964	file-csv	2015-05-19 17:27:00-07	9609 Prospect	Lakeside	CA	92040	US
+493012	3.00	4	775000	1696	Single Family Detached	1925	file-csv	2015-08-02 11:47:40-07	3794 Grim	San Diego	CA	92104	US
+493122	3.00	3	640000	1875	Single Family Detached	1950	file-csv	2015-07-29 23:57:00-07	4716 60th Street	San Diego	CA	92115	US
+494824	3.00	4	589000	3161	Single Family Detached	2000	file-csv	2015-08-30 11:37:53-07	1625 La Presa	Spring Valley	CA	91977	US
+495935	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+497833	7.50	5	4295000	10500	Single Family Detached	2001	file-csv	2015-08-04 23:21:00-07	3653 PURER ROAD	Escondido	CA	92029	US
+501597	3.00	4	749900	3210	Single Family Detached	1966	file-csv	2015-08-06 11:44:15-07	644 Bradford Road	El Cajon	CA	92019	US
+504865	2.00	4	569900	2111	Single Family Detached	2003	file-csv	2015-07-03 21:47:00-07	556 Big Sky Dr	Oceanside	CA	92058	US
+509204	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+513154	4.50	5	921000	4084	Single Family Detached	2004	file-csv	2015-08-07 19:46:00-07	2110 Pamplona Court	Escondido	CA	92025	US
+516900	2.00	4	468000	1466	Single Family Detached	1981	file-csv	2015-08-05 11:48:24-07	1237 Alpine Boulevard	Alpine	CA	91901	US
+522800	4.50	6	3195000	4000	Single Family Detached	2006	file-csv	2015-08-04 07:43:00-07	7003 FAY AVENUE	La Jolla	CA	92037	US
+522927	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+522989	4.50	6	749900	3300	Single Family Detached	2009	file-csv	2015-08-15 05:18:00-07	7010 Lermas Court	Lemon Grove	CA	91945	US
+522997	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+526134	2.00	4	525000	2250	Single Family Detached	2008	file-csv	2015-08-15 11:49:14-07	1749 Glen Crawford	Fallbrook	CA	92028	US
+526577	4.00	5	590000	3058	Single Family Detached	2007	file-csv	2015-08-04 15:33:00-07	558 Trovita Court	Escondido	CA	92027	US
+529287	1.50	3	599000	816	Single Family Detached	1929	file-csv	2015-08-28 11:54:03-07	310 S Tremont St.	Oceanside	CA	92054	US
+529300	3.00	4	638500	2330	Single Family Detached	1982	file-csv	2015-06-18 12:46:00-07	13835 Hilldale Rd	Valley Center	CA	92082	US
+530491	3.50	5	979900	3114	Single Family Detached	1991	file-csv	2015-08-26 11:56:51-07	2575 Fire Mountain Drive	Oceanside	CA	92054	US
+530770	5.50	6	2597000	4342	Single Family Detached	2006	file-csv	2015-02-03 17:22:00-08	318 S Nardo Avenue	Solana Beach	CA	92075	US
+533812	1.50	4	310000	1542	Other	1971	file-csv	2015-08-18 11:46:17-07	919 Lemon Ave	Vista	CA	92084	US
+534062	4.00	4	819000	2636	Single Family Detached	1983	file-csv	2015-02-13 11:23:22-08	28620 Gordon Hill	Valley Center	CA	92082	US
+534306	4.50	7	975000	4300	Single Family Detached	1997	file-csv	2015-06-02 01:26:00-07	29044 Meadow Glen Way West	Escondido	CA	92026	US
+536242	1.00	3	339500	1250	Single Family Detached	1959	file-csv	2015-07-11 05:22:00-07	202 E 14th	Escondido	CA	92025	US
+537863	2.00	3	439000	1536	Single Family Detached	1985	file-csv	2015-07-07 01:46:00-07	26947 Old Julian Highway	Ramona	CA	92065	US
+537907	3.00	3	2395000	1992	Single Family Detached	1957	file-csv	2015-08-15 04:09:00-07	470 15th Street	Del Mar	CA	92014	US
+539184	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+539321	5.50	5	3250000	4256	Single Family Detached	1964	file-csv	2015-05-11 22:22:00-07	2663 St. Tropez Place	La Jolla	CA	92037	US
+539745	6.50	5	7295000	5000	Single Family Detached	1970	file-csv	2015-01-13 11:42:20-08	6423 Camino De La Costa	La Jolla	CA	92037	US
+539941	3.50	4	2375000	2406	Single Family Detached	1976	file-csv	2015-09-03 22:37:00-07	1511 Copa De Oro	La Jolla	CA	92037	US
+540292	1.00	3	449999	1018	Single Family Detached	1960	file-csv	2015-07-28 06:06:00-07	5085 Triana St	San Diego	CA	92117	US
+540787	3.50	4	575000	2558	Single Family Detached	1972	file-csv	2015-04-04 00:21:00-07	11436 Rocky Lane	Lakeside	CA	92040	US
+541005	1.50	4	430000	2068	Single Family Detached	1957	file-csv	2015-07-17 16:00:19-07	680 Anderson	Alpine	CA	91901	US
+541652	2.50	3	848900	2290	Single Family Detached	1988	file-csv	2015-09-03 02:59:00-07	2719 Erie St.	San Diego	CA	92117	US
+541685	2.50	4	675000	2016	Single Family Detached	1965	file-csv	2015-08-30 11:52:27-07	9474 Podell Ave	San Diego	CA	92123	US
+542066	3.00	5	2700000	3486	Single Family Detached	2013	file-csv	2014-08-07 16:34:00-07	932 COURT WAY	San Diego	CA	92103	US
+542095	2.00	2	399000	616	Single Family Detached	1937	file-csv	2015-08-20 21:02:00-07	3553 Monroe Ave	San Diego	CA	92116	US
+542849	2.00	4	675000	1554	Single Family Detached	1959	file-csv	2015-09-01 20:30:30-07	6226 Lambda Dr.	San Diego	CA	92120	US
+542966	2.00	3	610000	1782	Single Family Detached	1960	file-csv	2015-09-04 11:31:04-07	5210 Joan Ct	San Diego	CA	92115	US
+543159	2.50	3	525000	1673	Single Family Detached	1959	file-csv	2015-07-08 22:19:00-07	4444 68th Street	La Mesa	CA	91942	US
+545198	3.50	4	899000	3500	Single Family Detached	1992	file-csv	2015-09-06 06:01:00-07	10291 Cerveza Baja Dr	Escondido	CA	92026	US
+545675	2.00	3	545000	2460	Single Family Detached	1959	file-csv	2015-08-01 16:07:00-07	726 Waimea	El Cajon	CA	92019	US
+546080	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+546382	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+546392	2.00	3	1199000	1127	Single Family Detached	1959	file-csv	2015-07-31 02:07:00-07	225 El Chico Lane	Coronado	CA	92118	US
+547432	2.50	4	625000	1965	Single Family Detached	1959	file-csv	2015-08-30 11:50:24-07	4375 Acacia Ave.	Bonita	CA	91902	US
+549617	5.00	6	999000	4197	Single Family Detached	2001	file-csv	2015-02-02 05:30:00-08	3756 Vista Pointe	Bonita	CA	91902	US
+550434	6.00	5	3995000	6300	Single Family Detached	2012	file-csv	2015-03-20 23:54:00-07	17474 Old Coach Road	Poway	CA	92064	US
+554925	1.00	3	459900	1008	Single Family Detached	1962	file-csv	2015-07-26 11:31:46-07	5183 Canosa	San Diego	CA	92117	US
+555807	3.00	4	599000	1688	Single Family Detached	1956	file-csv	2015-07-23 19:59:00-07	2670 COWLEY	San Diego	CA	92110	US
+559782	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+560268	8.50	5	24950000	7019	Single Family Detached	2002	file-csv	2015-07-22 19:22:00-07	9256 Old Pala Road	Pala	CA	92059	US
+577703	2.50	4	824867	3889	Single Family Detached	2000	file-csv	2015-06-05 17:09:00-07	12294 Mirar De Valle	Valley Center	CA	92082	US
+578200	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+578209	2.00	2	148900	n/a	Other	1948	file-csv	2015-08-28 00:36:10-07	2720-2722 Frying Pan Rd	Borrego Springs	CA	92004	US
+582561	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+583830	2.00	2	439900	1438	Townhouse	1975	file-csv	2015-04-28 11:32:44-07	7546 Gibraltar	Carlsbad	CA	92009	US
+593441	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+596680	3.00	4	1395000	n/a	Other	1978	file-csv	2015-08-03 07:07:00-07	1931 Glasgow	Cardiff By The Sea	CA	92007	US
+596772	4.00	4	3200000	2877	Single Family Detached	2007	file-csv	2015-06-27 16:17:00-07	2150 Cambridge	Cardiff-By-The-Sea	CA	92007	US
+604663	5.50	6	1150000	5000	Single Family Detached	2006	file-csv	2015-08-13 22:37:00-07	3535 Hwy 79	Julian	CA	92036	US
+606977	4.00	5	3000000	1630	Single Family Detached	1985	file-csv	2015-03-22 16:16:00-07	1759 Grand Ave	Del Mar	CA	92014	US
+611215	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+615893	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+616860	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+618082	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+623326	2.00	4	615000	1921	Single Family Detached	1937	file-csv	2015-08-07 11:42:53-07	4824 Normandie Pl	La Mesa	CA	91942	US
+624331	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+633747	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+634380	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+634495	2.50	3	1449000	1941	Townhouse	1941	file-csv	2015-06-22 20:35:00-07	605 Bonair Pl	La Jolla	CA	92037	US
+639362	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+642169	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+653782	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+654585	2.00	2	495000	n/a	Other	1941	file-csv	2015-07-29 16:34:00-07	2234 W Dunlop	San Diego	CA	92111	US
+666264	2.00	2	295000	1069	Single Family Attached	1987	file-csv	2015-07-31 11:53:07-07	3370 Cherokee	San Diego	CA	92104	US
+669077	3.00	3	719999	1228	Single Family Detached	1915	file-csv	2015-08-07 11:28:56-07	817 W PENNSYLVANIA AVE	San Diego	CA	92103	US
+669386	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+675112	2.00	3	399500	1368	Single Family Attached	1983	file-csv	2015-08-06 21:15:00-07	5683 Adobe Falls Rd	San Diego	CA	92120	US
+677590	5.00	5	799000	n/a	Other	1940	file-csv	2015-08-06 15:47:00-07	6776 Mohawk	San Diego	CA	92115	US
+677732	2.00	4	649500	1884	Single Family Detached	1941	file-csv	2015-07-30 16:09:26-07	6673 AMHERST ST.	San Diego	CA	92115	US
+680360	3.00	4	579000	n/a	Other	1959	file-csv	2015-07-23 23:07:00-07	4481-4485 60th Street	San Diego	CA	92115	US
+684204	3.50	5	649000	2713	Single Family Detached	1940	file-csv	2015-08-01 11:42:52-07	473 Live Oak Drive	El Cajon	CA	92020	US
+684326	5.50	7	579000	n/a	Other	1938	file-csv	2015-05-27 05:42:45-07	151-155 RICHARDSON	El Cajon	CA	92020	US
+691561	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+693341	4.00	4	1729000	n/a	Other	1987	file-csv	2015-07-01 15:57:00-07	410-412 E	Coronado	CA	92118	US
+708496	8.00	7	1200000	8900	Single Family Detached	1967	file-csv	2015-05-23 06:06:00-07	3430 Willow St	Bonita	CA	91902	US
+713911	5.50	6	1649900	3964	Single Family Detached	2008	file-csv	2015-06-07 11:38:24-07	1184 Magnolia	Carlsbad	CA	92008	US
+720556	4.00	4	1395000	4557	Single Family Detached	1994	file-csv	2015-05-03 11:54:34-07	15445 Pauma Valley Drive	Pauma Valley	CA	92061	US
+723673	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+726105	2.00	3	399999	1243	Single Family Attached	1992	file-csv	2015-05-19 11:20:42-07	17161 Alva Rd	San Diego	CA	92127	US
+735225	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+741920	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+752339	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+754215	2.00	2	317000	1035	Single Family Attached	2005	file-csv	2015-08-06 06:46:00-07	7671 Mission Gorge Road	San Diego	CA	92120	US
+759050	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+764672	3.00	4	451900	1801	Single Family Detached	2005	file-csv	2015-06-10 11:25:20-07	1456 Holly	Imperial Beach	CA	91932	US
+765512	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+771203	3.00	4	455000	1766	Single Family Detached	2007	file-csv	2015-08-04 11:48:08-07	1280 Granger	Imperial Beach	CA	91932	US
+773752	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+780960	2.50	4	599000	2448	Single Family Detached	1953	file-csv	2015-09-04 11:45:15-07	9476 Marilla Dr.	Lakeside	CA	92040	US
+783092	2.00	2	599000	1292	Single Family Detached	1987	file-csv	2015-07-03 11:41:53-07	15622 Royal Crown	San Diego	CA	92128	US
+783804	3.00	6	899900	n/a	Other	1927	file-csv	2015-08-01 11:44:54-07	4563 Kansas Street	San Diego	CA	92116	US
+783939	4.00	4	1185000	2468	Single Family Detached	2015	file-csv	2015-08-28 08:04:00-07	2931 Boundary Street	San Diego	CA	92104	US
+785875	4.00	5	479000	n/a	Other	1965	file-csv	2015-08-18 20:08:00-07	205 S 47th Street	San Diego	CA	92113	US
+785904	1.00	2	479900	1184	Single Family Detached	1975	file-csv	2014-07-01 21:45:00-07	28519 Highway 79 Highway	Santa Ysabel	CA	92070	US
+786039	2.00	4	899000	n/a	Other	1960	file-csv	2015-07-25 11:46:52-07	1828 Grand Ave	San Diego	CA	92109	US
+786131	3.50	5	1269900	4386	Single Family Detached	1978	file-csv	2015-09-02 11:51:25-07	16121 Martincoit Rd	Poway	CA	92064	US
+786761	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+786762	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+786763	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+787033	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+787034	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+787037	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+787038	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+787052	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+787059	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+787095	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+787166	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+787203	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+787216	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+787325	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+787400	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+787791	1.50	6	1199000	2000	Single Family Detached	1904	file-csv	2014-09-02 19:40:00-07	110 W Pennsylvania Avenue	San Diego	CA	92103	US
+788155	0.00	1	400000	1200	Single Family Detached	1920	file-csv	2014-10-02 17:16:00-07	42061 Old Hwy 80	Jacumba	CA	91934	US
+788239	2.00	3	365000	1544	Single Family Detached	1980	file-csv	2014-10-10 16:35:00-07	311 E Indian Rock Road	Vista	CA	92084	US
+788418	4.00	5	3349000	4907	Single Family Detached	2014	file-csv	2015-04-18 01:36:00-07	16957 Mimosa Place	Rancho Santa Fe	CA	92067	US
+788514	0.00	n/a	n/a	n/a	n/a	n/a	file-csv	n/a	n/a	n/a	n/a	n/a	n/a
+788993	4.50	6	3995000	4138	Single Family Detached	1926	file-csv	2015-07-22 11:32:37-07	1313 10th	Coronado	CA	92118	US
+789119	4.00	5	990000	4200	Single Family Detached	1980	file-csv	2015-02-04 16:22:02-08	37416 Highway 80	Boulevard	CA	91905	US
+789441	2.00	3	77500	1248	Manufactured Home	2000	file-csv	2015-03-17 00:59:00-07	28890 Lilac Rd.	Valley Center	CA	92082	US
+789587	3.50	5	1999000	5100	Single Family Detached	1982	file-csv	2015-04-22 05:03:00-07	7103 Argonauta	Carlsbad	CA	92009	US
+789619	3.50	3	799000	2612	Single Family Detached	1991	file-csv	2015-04-28 11:24:29-07	2628 Harmony Heights	Escondido	CA	92029	US
+789741	3.00	4	769500	2489	Single Family Detached	2013	file-csv	2015-05-19 11:23:24-07	2442 Gird Rd	Fallbrook	CA	92028	US
+789777	2.00	4	639000	1739	Single Family Detached	1941	file-csv	2015-06-02 11:39:13-07	4175 Gateside Rd	La Mesa	CA	91941	US
+789858	2.00	3	199500	2064	Single Family Detached	1981	file-csv	2015-06-13 11:22:19-07	36263 Montezuma Valley Road	Ranchita	CA	92066	US
+789908	2.00	3	389000	1344	Manufactured Home	1985	file-csv	2015-08-21 11:43:06-07	1325 Winter Haven Rd.	Fallbrook	CA	92028	US
+789931	2.00	3	269900	1600	Manufactured Home	2006	file-csv	2015-06-23 11:41:26-07	16726 HIGHWAY 76	Pauma Valley	CA	92061	US
+789932	1.00	1	449000	560	Single Family Detached	1947	file-csv	2015-06-23 11:42:47-07	810 61st Street	San Diego	CA	92114	US
+789934	1.00	1	425000	736	Single Family Attached	1973	file-csv	2015-06-24 11:22:16-07	3290 6th Ave	San Diego	CA	92103	US
+789954	1.00	3	675000	1850	Single Family Detached	1920	file-csv	2015-06-27 11:34:49-07	852 16th	San Diego	CA	92101	US
+789977	2.00	2	129000	1049	Manufactured Home	1994	file-csv	2015-07-02 11:19:34-07	6460 Convoy Court	San Diego	CA	92117	US
+789996	2.00	3	215000	1320	Manufactured Home	1968	file-csv	2015-07-03 18:40:00-07	6550 Ponto Drive	Carlsbad	CA	92011	US
+790000	2.00	3	368000	1200	Single Family Detached	1962	file-csv	2015-07-04 20:25:00-07	2202 E Division	National City	CA	91950	US
+790035	4.50	5	1199000	3300	Single Family Detached	2015	file-csv	2015-07-11 11:44:10-07	3135 Canyon	Carlsbad	CA	92008	US
+790052	3.00	5	379000	n/a	Other	n/a	file-csv	2015-07-14 11:36:25-07	525-531 Dewey Street	San Diego	CA	92113	US
+790079	2.00	3	619000	1800	Single Family Detached	2015	file-csv	2015-09-03 11:36:18-07	1418 Carrio Drive	Vista	CA	92084	US
+790101	2.00	4	2000000	n/a	Other	1955	file-csv	2015-07-21 13:25:26-07	495 Palm Avenue	Imperial Beach	CA	91932	US
+790105	2.00	5	379000	2100	Single Family Detached	1950	file-csv	2015-07-22 11:44:17-07	44250 Old Highway 80	Jacumba	CA	91934	US
+790106	2.00	4	485000	1941	Single Family Detached	2013	file-csv	2015-07-21 20:35:00-07	1162 Caminito Connie	Ramona	CA	92065	US
+790117	6.50	6	1389000	5316	Single Family Detached	2016	file-csv	2015-07-23 11:51:14-07	4808 Sunny Acres Ln	Del Mar	CA	92014	US
+790122	2.00	4	505000	1292	Single Family Detached	1957	file-csv	2015-07-24 02:39:00-07	3653 Ashford	San Diego	CA	92111	US
+790126	2.00	3	355000	1408	Single Family Detached	1988	file-csv	2015-07-25 11:47:09-07	531 Timberfeather Ln	Fallbrook	CA	92028	US
+790136	2.00	5	309900	n/a	Other	1950	file-csv	2015-07-26 11:31:49-07	3875-3877 Beta	San Diego	CA	92113	US
+790153	4.00	5	1795000	6100	Single Family Detached	2005	file-csv	2015-07-28 02:37:00-07	23693 Echo Hills Road	Descanso	CA	91916	US
+790158	4.00	3	749000	3500	Single Family Detached	1980	file-csv	2015-07-28 02:37:00-07	10190 Oak Grove Drive	Descanso	CA	91916	US
+790166	1.00	3	185000	1056	Single Family Detached	1970	file-csv	2015-07-17 16:06:09-07	22196 Crestline Road	Palomar Mountain	CA	92060	US
+790177	2.50	3	412900	2255	Single Family Detached	1992	file-csv	2015-07-24 22:10:00-07	7661 Deodar Trail	Pine Valley	CA	91962	US
+790184	5.00	6	1400000	5786	Single Family Detached	1989	file-csv	2015-07-23 22:37:00-07	5755 Boulder Creek Road	Julian	CA	92036	US
+790195	3.00	3	235000	1732	Manufactured Home	2011	file-csv	2015-08-01 14:38:00-07	9255 N Magnolia Avenue	Santee	CA	92071	US
+790197	2.00	2	169900	1296	Manufactured Home	1974	file-csv	2015-08-01 11:29:51-07	4650 Dulin Rd	Fallbrook	CA	92028	US
+790201	2.00	3	599000	1042	Manufactured Home	2014	file-csv	2015-07-31 21:44:00-07	264 Walnut Hills Drive	San Marcos	CA	92078	US
+790205	4.00	4	595000	n/a	Other	1936	file-csv	2015-07-31 16:00:00-07	4636-4640 College Ave	San Diego	CA	92115	US
+790216	2.00	2	439000	1536	Single Family Detached	1979	file-csv	2015-08-03 18:57:00-07	2361 Rainbow Glen Rd	Fallbrook	CA	92028	US
+790231	0.00	5	1795000	1616	Townhouse	1993	file-csv	2015-08-07 00:12:00-07	1177 Pacific Beach Drive	San Diego	CA	92109	US
+790246	1.00	1	260000	650	Single Family Attached	1975	file-csv	2015-08-09 11:53:05-07	1645 Emerald Street	San Diego	CA	92109	US
+790260	1.50	2	374000	899	Single Family Attached	1981	file-csv	2015-08-12 20:21:00-07	4032 Centre St	San Diego	CA	92103	US
+790269	3.00	3	725000	2660	Single Family Detached	1987	file-csv	2015-08-13 22:50:00-07	4844 Quiet Oaks	Julian	CA	92036	US
+790288	2.00	3	138000	1120	Manufactured Home	2004	file-csv	2015-08-18 01:38:00-07	6460 Convoy Ct	San Diego	CA	92117	US
+790321	2.00	3	599000	1704	Single Family Detached	1972	file-csv	2015-08-25 07:21:00-07	13173 Avenida Del General	San Diego	CA	92129	US
+790322	3.00	3	397900	n/a	Other	1943	file-csv	2015-08-25 11:40:41-07	355 - 359 20th Street	San Diego	CA	92102	US
+790325	2.50	3	1685000	1700	Single Family Detached	1950	file-csv	2015-08-25 22:58:00-07	4966-68 Crystal	San Diego	CA	92109	US
+790327	2.00	4	515000	1517	Single Family Detached	1977	file-csv	2015-08-26 11:54:36-07	6546 Glidden	San Diego	CA	92111	US
+790339	2.00	3	695000	n/a	Other	1935	file-csv	2015-08-28 04:40:00-07	5125-5127 Muir Ave.	San Diego	CA	92107	US
+790366	3.00	3	349500	2072	Single Family Detached	1960	file-csv	2015-09-02 11:54:45-07	1575 Yaqui Road	Borrego Springs	CA	92004	US
+790388	2.00	6	419000	n/a	Other	1949	file-csv	2015-09-04 23:54:00-07	3867-3869 T St	San Diego	CA	92113	US
