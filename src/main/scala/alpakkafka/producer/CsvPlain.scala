@@ -65,7 +65,7 @@ object CsvPlain {
         val prodRec = new ProducerRecord[String, String](
           topic, property.propertyId.toString, property.toJson.compactPrint
         )
-        println(s"[CSV] >>> Producer msg: $prodRec")
+        println(s"[CSV] >>> Producer msg: $prodRec")  // For testing only
         prodRec
       }
       .runWith(Producer.plainSink(producerSettings))

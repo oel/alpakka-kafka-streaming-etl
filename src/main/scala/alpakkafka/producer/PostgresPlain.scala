@@ -62,7 +62,7 @@ object PostgresPlain {
         val prodRec = new ProducerRecord[String, String](
           topic, property.propertyId.toString, property.toJson.compactPrint
         )
-        println(s"[POSTRES] >>> Producer msg: $prodRec")
+        println(s"[POSTRES] >>> Producer msg: $prodRec")  // For testing only
         prodRec
       }
       .runWith(Producer.plainSink(producerSettings))
