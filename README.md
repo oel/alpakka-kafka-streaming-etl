@@ -4,7 +4,7 @@ This is an [Akka Stream](https://doc.akka.io/docs/akka/2.6/stream/index.html) ba
 
 Central to the system are configurable Apache Kafka brokers which provide the publish-subscribe machinery for durable stream data to be produced or consumed by various data processing/storage systems.  Built on top of Akka Stream, the Alpakka APIs allow the data storage components and data processing pipelines to be constructed as composable streaming stages and stream processing operators.  In addition, it enables the streaming system to be [Reactive Streams](https://www.reactive-streams.org/) compliant with non-blocking backpressure.
 
-For an overview of the application, please visit Genuine Blog (URL to be provided soon).
+For an overview of the application, please visit [Genuine Blog](https://blog.genuine.com/2021/11/etl-pipelining-with-alpakka-kafka/).
 
 ## Systems requirement: Kafka brokers, PostgreSQL and Cassandra databases
 
