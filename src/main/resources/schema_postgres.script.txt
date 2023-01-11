@@ -1,7 +1,7 @@
 # Creation of database `propertydb` and table `property_listing` in PostgreSQL using `psql`
 #
 $ psql -h localhost -U postgres
-CREATE ROLE pipeliner WITH createdb login ENCRYPTED PASSWORD 'mypassword';
+CREATE ROLE pipeliner WITH createdb login ENCRYPTED PASSWORD 'pa$$word';
 CREATE DATABASE propertydb WITH OWNER 'pipeliner' ENCODING 'utf8';
 \q
 
